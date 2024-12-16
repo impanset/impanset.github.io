@@ -9,7 +9,7 @@ permalink: /lc/
 
 
 ### Wednesday, 2025-01-22
-**Borisa Kuzeljevic (University of Novi Sad)**  
+**Boriša Kuzeljević (University of Novi Sad)**  
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
