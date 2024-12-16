@@ -1,19 +1,19 @@
 - name: Philipp Lücke
   affiliation: University of Hamburg
   start_date: "2025-03-23"
-  end_date: "2025-03-29"
-
-  - name: Joan Bagaria
+  end_date: "2025-03-29"  
+    
+- name: Joan Bagaria
   affiliation: University of Barcelona
   start_date: "2025-03-23"
   end_date: "2025-03-29"
 
-  - name: Vera Fischer
+- name: Vera Fischer
   affiliation: University of Vienna
   start_date: "TBD"
   end_date: "TBD"
   
-  - name: Boriša Kuzeljević
+- name: Boriša Kuzeljević
   affiliation: University of Novi Sad
   start_date: "2025-01-20"
   end_date: "2025-01-25"
