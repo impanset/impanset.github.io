@@ -1,12 +1,12 @@
-- name: Philipp Lücke
-  affiliation: University of Hamburg
-  start_date: "2025-03-23"
-  end_date: "2025-03-29"  
-    
 - name: Joan Bagaria
   affiliation: University of Barcelona
   start_date: "2025-03-23"
   end_date: "2025-03-29"
+
+- name: Philipp Lücke
+  affiliation: University of Hamburg
+  start_date: "2025-03-23"
+  end_date: "2025-03-29"  
 
 - name: Vera Fischer
   affiliation: University of Vienna
