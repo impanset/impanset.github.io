@@ -11,8 +11,8 @@ permalink: /lc/
 **Boriša Kuzeljević (University of Novi Sad)**  
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong>Abstract:</strong> TBA </li>
+<li><strong>Title:</strong> Rudin-Keisler ordering of ultrafilters</li>
+<li><strong>Abstract:</strong> We will present some basic facts about the Rudin-Keisler ordering of ultrafilters, as well as some recent results about the structure of this ordering in the class of P-point ultrafilters. The results I will present are joint work with Dilip Raghavan and Jonathan Verner. </li>
 <li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
 <li><strong>Time:</strong> 16:45</li>
 </ul>
