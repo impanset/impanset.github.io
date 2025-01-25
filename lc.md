@@ -7,15 +7,6 @@ permalink: /lc/
     <h1>Upcoming colloquiums</h1>
 </div>
 
-### Wednesday, 2025-01-22
-**Boriša Kuzeljević (University of Novi Sad)**  
-
-<ul>
-<li><strong>Title:</strong> Rudin-Keisler ordering of ultrafilters</li>
-<li><strong>Abstract:</strong> We will present some basic facts about the Rudin-Keisler ordering of ultrafilters, as well as some recent results about the structure of this ordering in the class of P-point ultrafilters. The results I will present are joint work with Dilip Raghavan and Jonathan Verner. </li>
-<li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
-<li><strong>Time:</strong> 16:45</li>
-</ul>
 
 
 ### Wednesday, 2025-02-12
@@ -44,6 +35,19 @@ permalink: /lc/
 <div style="flex: 0.5; padding-right: 20px;">
     <h1>Past colloquiums</h1>
 </div>
+
+
+### Wednesday, 2025-01-22
+**Boriša Kuzeljević (University of Novi Sad)**  
+<details>
+<summary>View Details</summary>
+<ul>
+<li><strong>Title:</strong> Rudin-Keisler ordering of ultrafilters</li>
+<li><strong>Abstract:</strong> We will present some basic facts about the Rudin-Keisler ordering of ultrafilters, as well as some recent results about the structure of this ordering in the class of P-point ultrafilters. The results I will present are joint work with Dilip Raghavan and Jonathan Verner. </li>
+<li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
+<li><strong>Time:</strong> 16:45</li>
+</ul>
+</details>
 
 
 ### Wednesday, 2024-12-11
