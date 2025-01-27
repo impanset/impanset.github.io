@@ -19,7 +19,7 @@ permalink: /stgp/
 
 <br/>
 
-<h2 style="margin-top: 20px;">Structural Rfelection and HOD Conjecture</h2>
+<h2 style="margin-top: 20px;">Structural Reflection and HOD Conjecture</h2>
 <ul>
   <li>
     Lecturers: Joan Bagaria and Philipp Lücke  
