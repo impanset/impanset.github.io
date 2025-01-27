@@ -19,7 +19,10 @@ permalink: /stgp/
   <li>
     Lecturers: Joan Bagaria and Philipp Lücke  
   <li>
-   24-28 March 2025
+   24-28 March 2025 in Gdansk
       <li>
-    Registration
+       The workshop is free, but registration is necessary.    
+                <li>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSehPUjhHIVgtDXMM3KUZnlh08NxpiVARwUWVBTaCVdMCCmOmQ/viewform?usp=header"> Registration form </a> 
+          </li>
     <ul> 
