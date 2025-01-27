@@ -1,14 +1,14 @@
 ---
 layout: page-sans-title
-title: Contemporary Set Theorety
+title: Contemporary Set Theorey
 permalink: /stgp/
 ---
 
 <div style="display: flex; align-items: flex-start;">
   <!-- Left: Text -->
   <div style="flex: 0.5; padding-right: 20px;">
-    <h1>Contemporary Set Theorety</h1>
-    <p>"Contemporary Set Theorety" is a series of mini-worldshops that prioritize content over the traditional focus 
+    <h1>Contemporary Set Theorey</h1>
+    <p>"Contemporary Set Theorey" is a series of mini-worldshops that prioritize content over the traditional focus 
       on results or individual speakers. These workshops highlight futuristic developments in set theory, valuing strength, simplicity, 
       aesthetics, expandability, applicability, sustainability, and extendability. With an emphasis on smooth knowledge transfer, the series is
       designed to inspire and engage participants at all career stages, fostering a dynamic academic dialogue.” 
