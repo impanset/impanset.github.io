@@ -11,8 +11,8 @@ permalink: /stgp/
     <p>"Contemporary Set Theorey" is a series of mini-worldshops that prioritize content over the traditional focus 
       on results or individual speakers. These workshops highlight futuristic developments in set theory, valuing strength, simplicity, 
       aesthetics, expandability, applicability, sustainability, and extendability. With an emphasis on smooth knowledge transfer, the series is
-      designed to inspire and engage participants at all career stages, fostering a dynamic academic dialogue.” 
-      The events are organised by R. Mohammadpour and G. Sargsyan.</p>
+      designed to inspire and engage participants at all career stages, fostering a dynamic academic dialogue.”</p>
+ <p>Organizers: R. Mohammadpour and G. Sargsyan</p>
   </div>
 
 </div>
