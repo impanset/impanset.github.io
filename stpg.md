@@ -12,7 +12,7 @@ permalink: /stgp/
       designed to inspire and engage participants at all career stages, fostering a dynamic academic dialogue.”</p>
  <p>Organizers: R. Mohammadpour and G. Sargsyan</p>
 </div>
-<br/>
+
 
 <h2 style="margin-top: 20px;">Structural Reflection and HOD Conjecture</h2>
 <ul>
