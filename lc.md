@@ -13,8 +13,8 @@ permalink: /lc/
 **Adam Kwela (University of Gdansk)**  
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong>Abstract:</strong> TBA </li>
+<li><strong>Title:</strong>  Ideal versions of the bounding number</li>
+<li><strong>Abstract:</strong>  I will discuss several ideal versions of the bounding number and mention some of their applications.</li>
 <li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
 <li><strong>Time:</strong> 16:45</li>
 </ul>
