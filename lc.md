@@ -16,8 +16,13 @@ permalink: /lc/
 **Vera Fischer(University of Vienna)**  
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong>Abstract:</strong> TBA </li>
+<li><strong>Title:</strong> Good witnesses </li>
+<li><strong>Abstract:</strong> Two persistent directions in the study of the properties of
+the, so called, combinatorial or extremal sets of reals, sets like
+maximal cofinitary groups or maximal ideal independent families, are the
+study of their spectra and their projective complexity. In this talk, we
+will discuss some recent progress in this area and point out towards
+interesting remaining open problems. </li>
 <li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
 <li><strong>Time:</strong> 16:45</li>
 </ul>
