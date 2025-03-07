@@ -27,93 +27,14 @@ permalink: /stgp/
   <li>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSehPUjhHIVgtDXMM3KUZnlh08NxpiVARwUWVBTaCVdMCCmOmQ/viewform?usp=header">Registration form</a>
   </li>
-        <li>
-      <iframe src="https://gdn-logic.github.io/gdn-logic/_includes/timetable.pdf" width="100%" height="600px"></iframe>
-  </li>
-</ul>
-
+  <li>
+  <a href="https://github.com/gdn-Logic/gdn-logic.github.io/blob/main/assets/timetable.pdf">Download the pdf of the timetable.</a>
 <div style="flex: 0.5;">
-    <img src="/assets/images/timetable.heic" alt="My Image" style="max-width: 100%; height: auto;" />
-    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Credit: Rahman Mohammadpour</figcaption>
-  </div>
-<!DOCTYPE html>
-<html>
-<body>
-    <h1>Lectures Schedule</h1>
-    <table border="1">
-        <tr>
-            <td><b>Monday<br /> 23.03.2025</b></td>
-            <td>
-                <table border="1">
-                    <tr>
-                        <td>10:00-11:00</td>
-                        <td>Joan Bagaria</td>
-                        <td>Large cardinals beyond Vopenka's Principle as principles of Structural Reflection (SR). An overview.</td>
-                    </tr>
-                    <tr>
-                        <td>11:00-11:30</td>
-                        <td colspan="2">Break</td>
-                    </tr>
-                    <tr>
-                        <td>11:30-12:30</td>
-                        <td>Philip Lücke</td>
-                        <td>Exacting and Ultraexacting cardinals</td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        <tr>
-            <td><b>Tuesday<br /> 24.03.2025</b></td>
-            <td>
-                <table border="1">
-                    <tr>
-                        <td>10:00-11:00</td>
-                        <td>Joan Bagaria</td>
-                        <td>Exacting and ultraexacting cardinals as SR principles</td>
-                    </tr>
-                    <tr>
-                        <td>11:00-11:30</td>
-                        <td colspan="2">Break</td>
-                    </tr>
-                    <tr>
-                        <td>11:30-12:30</td>
-                        <td>Philip Lücke</td>
-                        <td>The consistency of exacting and ultraexacting cardinals</td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        <tr>
-            <td><b>Wednesday<br /> 25.03.2025</b></td>
-            <td>
-                <table border="1">
-                    <tr>
-                        <td>10:00-11:00</td>
-                        <td>Joan Bagaria</td>
-                        <td>Exacting and ultraexacting cardinals given by I3 and I1 embeddings with Ordinal Definable parameters, with some corollaries</td>
-                    </tr>
-                    <tr>
-                        <td>11:00-11:30</td>
-                        <td colspan="2">Break</td>
-                    </tr>
-                    <tr>
-                        <td>11:30-12:30</td>
-                        <td>Philip Lücke</td>
-                        <td>Consequences of ultraexactness</td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        <tr>
-            <td><b>Thursday<br /> 26.03.2025</b></td>
-            <td>
-                <table border="1">
-                    <tr>
-                        <td>10:00-11:00</td>
-                        <td>Joan Bagaria</td>
-                        <td>The HOD Conjecture and large cardinals beyond Choice</td>
-                    </tr>
-                    <tr>
-                        <td>11:00-11:30</td>
-                        
+      </li>
+</ul>
+    <div>
+    <div 
+    style="flex: 0.5;">
+    <img src="/assets/images/timetbl.tiff" alt="My Image" style="max-width: 100%; height: auto;" />
+
 
