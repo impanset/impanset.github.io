@@ -27,9 +27,15 @@ permalink: /stgp/
   <li>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSehPUjhHIVgtDXMM3KUZnlh08NxpiVARwUWVBTaCVdMCCmOmQ/viewform?usp=header">Registration form</a>
   </li>
+        <li>
+      <iframe src="https://gdn-logic.github.io/gdn-logic/_includes/timetable.pdf" width="100%" height="600px"></iframe>
+  </li>
 </ul>
 
-
+<div style="flex: 0.5;">
+    <img src="/assets/images/timetable.heic" alt="My Image" style="max-width: 100%; height: auto;" />
+    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Credit: Rahman Mohammadpour</figcaption>
+  </div>
 <!DOCTYPE html>
 <html>
 <body>
