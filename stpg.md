@@ -28,10 +28,10 @@ permalink: /stgp/
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSehPUjhHIVgtDXMM3KUZnlh08NxpiVARwUWVBTaCVdMCCmOmQ/viewform?usp=header">Registration form</a>
   </li>
   <li>
-  <a href="https://github.com/gdn-Logic/gdn-logic.github.io/blob/main/assets/timetable.pdf">Download the pdf of the timetable.</a>
+  <a href="https://drive.google.com/file/d/1ltgg8IZgYKoQ3HpJMpBprW67bfvis7Rg/view?usp=share_link">Download the pdf of the timetable.</a>
   </li>
 <ul>
     <div style="flex: 0.5;">
-    <img src="/assets/images/timetbl.tiff" alt="My Image" style="max-width: 100%; height: auto;" />
+    <img src="/assets/images/timetbl.png" alt="My Image" style="max-width: 100%; height: auto;" />
     </div>
 
