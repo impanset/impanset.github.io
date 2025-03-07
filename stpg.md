@@ -29,12 +29,9 @@ permalink: /stgp/
   </li>
   <li>
   <a href="https://github.com/gdn-Logic/gdn-logic.github.io/blob/main/assets/timetable.pdf">Download the pdf of the timetable.</a>
-<div style="flex: 0.5;">
-      </li>
-</ul>
-    <div>
-    <div 
-    style="flex: 0.5;">
+  </li>
+<ul>
+    <div style="flex: 0.5;">
     <img src="/assets/images/timetbl.tiff" alt="My Image" style="max-width: 100%; height: auto;" />
-
+    </div>
 
