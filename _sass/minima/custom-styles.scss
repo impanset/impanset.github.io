@@ -159,18 +159,20 @@ footer, .site-footer {
   max-width: 60%; /* Limit image width */
   height: auto; /* Maintain aspect ratio */
 }
-
-table {
+.schedule-table {
     width: 100%;
     border-collapse: collapse;
 }
-th, td {
+
+.schedule-table th, .schedule-table td {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
 }
-.highlight {
+
+.schedule-table .highlight {
     background-color: #f2f2f2;
     font-weight: bold;
 }
+
 
