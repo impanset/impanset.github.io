@@ -31,6 +31,7 @@ permalink: /stgp/
   <a href="https://drive.google.com/file/d/1ltgg8IZgYKoQ3HpJMpBprW67bfvis7Rg/view?usp=share_link">Download the pdf of the timetable.</a>
   </li>
 <ul>
+    <br/>
     <div style="flex: 0.5;">
     <img src="/assets/images/timetbl.png" alt="My Image" style="max-width: 100%; height: auto;" />
     </div>
