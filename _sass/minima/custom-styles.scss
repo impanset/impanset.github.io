@@ -160,3 +160,17 @@ footer, .site-footer {
   height: auto; /* Maintain aspect ratio */
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+.highlight {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
