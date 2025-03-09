@@ -31,8 +31,79 @@ permalink: /stgp/
   <a href="https://drive.google.com/file/d/1ltgg8IZgYKoQ3HpJMpBprW67bfvis7Rg/view?usp=share_link">Download the pdf of the timetable.</a>
   </li>
 <ul>
-    <br/>
-    <div style="flex: 0.5;">
-    <img src="/assets/images/tmtbl.png" alt="My Image" style="max-width: 100%; height: auto;" />
-    </div>
-
+<div class="table-container">
+<table>
+ <thead>
+    <!-- Timetable Header Row -->
+    <tr>
+      <th colspan="4" style="text-align: center; font-size: 18px; font-weight: bold;">Timetable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Monday -->
+    <tr>
+      <td rowspan="3">Monday <br> (24-03-2025)</td>
+      <td>10:00-11:00</td>
+      <td>Joan Bagaria</td>
+      <td>Large cardinals beyond Vopenka’s Principle as principles of Structural Reflection (SR). An overview.</td>
+    </tr>
+    <tr>
+      <td>11:00-11:30</td>
+      <td colspan="2">Break</td>
+    </tr>
+    <tr>
+      <td>11:30-12:00</td>
+      <td>Philipp Lücke</td>
+      <td>Exacting and Ultraexacting cardinals</td>
+    </tr>
+    <!-- Tuesday -->
+    <tr>
+      <td rowspan="3">Tuesday <br> (25-03-2025)</td>
+      <td>10:00-11:00</td>
+      <td>Joan Bagaria</td>
+      <td>Exacting and ultraexacting cardinals as SR principles</td>
+    </tr>
+    <tr>
+      <td>11:00-11:30</td>
+      <td colspan="2">Break</td>
+    </tr>
+    <tr>
+      <td>11:30-12:00</td>
+      <td>Philipp Lücke</td>
+      <td>The consistency of exacting and ultraexacting cardinals</td>
+    </tr>
+    <!-- Wednesday -->
+    <tr>
+      <td rowspan="3">Wednesday <br> (26-03-2025)</td>
+      <td>10:00-11:00</td>
+      <td>Joan Bagaria</td>
+      <td>Exacting and ultraexacting cardinals given by I3 and I1 embeddings with Ordinal Definable parameters, with some corollaries</td>
+    </tr>
+    <tr>
+      <td>11:00-11:30</td>
+      <td colspan="2">Break</td>
+    </tr>
+    <tr>
+      <td>11:30-12:00</td>
+      <td>Philipp Lücke</td>
+      <td>Consequences of ultraexactness</td>
+    </tr>
+    <!-- Thursday -->
+    <tr>
+      <td rowspan="3">Thursday <br> (27-03-2025)</td>
+      <td>10:00-11:00</td>
+      <td>Joan Bagaria</td>
+      <td>The HOD Conjecture and large cardinals beyond Choice</td>
+    </tr>
+    <tr>
+      <td>11:00-11:30</td>
+      <td colspan="2">Break</td>
+    </tr>
+    <tr>
+      <td>11:30-12:00</td>
+      <td>Philipp Lücke</td>
+      <td>A consistency proof from large cardinals beyond choice</td>
+    </tr>
+  </tbody>
+</table>
+</div>
