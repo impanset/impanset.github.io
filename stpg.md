@@ -21,31 +21,37 @@ permalink: /stgp/
 <ul>
   <li>Lecturers: Joan Bagaria and Philipp Lücke</li>
   <li>24-27 March 2025 in Gdansk.</li>
-  <li>The workshop is free, but registration is necessary. The deadline is 28-02-2025 (inclusive).</li>
+  <li>The workshop is free, but registration is necessary. (<a href="https://docs.google.com/forms/d/e/1FAIpQLSehPUjhHIVgtDXMM3KUZnlh08NxpiVARwUWVBTaCVdMCCmOmQ/viewform?usp=header">Registration form</a>) </li>
   <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li>
   <li>Contact:  Rahman Mohammadpour or Grigor Sargsyan.</li>
   <li>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSehPUjhHIVgtDXMM3KUZnlh08NxpiVARwUWVBTaCVdMCCmOmQ/viewform?usp=header">Registration form</a>
-  </li>
-  <li>
-  <a href="https://drive.google.com/file/d/1ltgg8IZgYKoQ3HpJMpBprW67bfvis7Rg/view?usp=share_link">Download the pdf of the timetable.</a>
+Location: University of Gdansk. 
+  All the lectures will be held in the  classrooms S316, S317, and S342 the of  building of the Faculty of Social Sciences. Th timetable is found below.
   </li>
 <ul>
+<br>
+  <div style="text-align: left;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2322.600652747466!2d18.570397376299027!3d54.39936839541609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd75256281d839%3A0x97ce22eefa448c6b!2sWydzia%C5%82%20Nauk%20Spo%C5%82ecznych%20Uniwersytetu%20Gda%C5%84skiego!5e0!3m2!1sen!2spl!4v1741512967693!5m2!1sen!2spl" width="300" height="300" style="border:1;" allowfullscreen="no" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+<br>
+
+<br/>
 <div class="table-container">
 <table>
  <thead>
     <!-- Timetable Header Row -->
     <tr>
-      <th colspan="4" style="text-align: center; font-size: 18px; font-weight: bold;">Timetable</th>
+      <th colspan="5" style="text-align: center; font-size: 18px; font-weight: bold;">Timetable</th>
     </tr>
   </thead>
   <tbody>
     <!-- Monday -->
     <tr>
-      <td rowspan="3">Monday <br> (24-03-2025)</td>
+    <td rowspan="3">Monday <br> (24-03-2025)</td>
+      <td rowspan="3" class="room-cell">S316</td>
       <td>10:00-11:00</td>
       <td>Joan Bagaria</td>
-      <td>Large cardinals beyond Vopenka’s Principle as principles of Structural Reflection (SR). An overview.</td>
+      <td>Large cardinals beyond Vopenka’s Principle as principles of Structural Reflection (SR). An overview</td>
     </tr>
     <tr>
       <td>11:00-11:30</td>
@@ -59,6 +65,7 @@ permalink: /stgp/
     <!-- Tuesday -->
     <tr>
       <td rowspan="3">Tuesday <br> (25-03-2025)</td>
+        <td rowspan="3">S342</td>
       <td>10:00-11:00</td>
       <td>Joan Bagaria</td>
       <td>Exacting and ultraexacting cardinals as SR principles</td>
@@ -75,9 +82,10 @@ permalink: /stgp/
     <!-- Wednesday -->
     <tr>
       <td rowspan="3">Wednesday <br> (26-03-2025)</td>
+        <td rowspan="3">S317</td>
       <td>10:00-11:00</td>
       <td>Joan Bagaria</td>
-      <td>Exacting and ultraexacting cardinals given by I3 and I1 embeddings with Ordinal Definable parameters, with some corollaries</td>
+      <td>Exacting and ultraexacting cardinals given by \(\mathrm{I}3\) and \(\mathrm{I}1\) embeddings with Ordinal Definable parameters, <br> with some corollaries</td>
     </tr>
     <tr>
       <td>11:00-11:30</td>
@@ -91,6 +99,7 @@ permalink: /stgp/
     <!-- Thursday -->
     <tr>
       <td rowspan="3">Thursday <br> (27-03-2025)</td>
+        <td rowspan="3">S317</td>
       <td>10:00-11:00</td>
       <td>Joan Bagaria</td>
       <td>The HOD Conjecture and large cardinals beyond Choice</td>
