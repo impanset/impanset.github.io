@@ -26,7 +26,7 @@ permalink: /stgp/
   <li>Contact:  Rahman Mohammadpour or Grigor Sargsyan.</li>
   <li>
 Location: University of Gdansk. 
-  All the lectures will be held in the  classrooms S316, S317, and S342 the of  building of the Faculty of Social Sciences. Th timetable is found below.
+  All the lectures will be held in the  classrooms S316, S317, and S342 the of  building of the Faculty of Social Sciences. The timetable of lectures is found below.
   </li>
 <ul>
 <br>
