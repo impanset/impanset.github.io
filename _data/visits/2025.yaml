@@ -1,7 +1,17 @@
+- name: Sandra Müller
+  affiliation: Technical University of Vienna
+  start_date: "2025-05-26"
+  end_date: "2025-05-30"
+  
 - name: Nam Trang
   affiliation: University of North Texas
   start_date: "2025-05-26"
   end_date: "2025-05-30"
+
+- name: Doug Blue
+  affiliation: University of Pittsburgh
+  start_date: "2025-05-05"
+  end_date: "2025-06-01"  
 
 - name: Joan Bagaria
   affiliation: University of Barcelona
