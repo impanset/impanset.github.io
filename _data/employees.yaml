@@ -11,12 +11,12 @@
 - name: Umutcan Kaya (UG)
   photo: /assets/images/employees/exists.jpg
   pos: PhD student
-  website: 
+  website: https://gdn-logic.github.io/about/
   
 - name: Jan Kostrzon (UG)
   photo: /assets/images/employees/exists.jpg
   pos: PhD student
-  website:  
+  website:  https://gdn-logic.github.io/about/
 
 - name: Krzysztof Kowitz (UG)
   photo: /assets/images/employees/exists.jpeg
@@ -31,7 +31,7 @@
 - name: Arijeet Mishra (UG)
   photo: /assets/images/employees/exists.jpg
   pos: PhD student
-  website:  
+  website:  https://gdn-logic.github.io/about/
   
 - name: Rahman Mohamamdpour (IMPAN)
   photo: /assets/images/employees/rahman.jpg
