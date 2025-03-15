@@ -35,8 +35,9 @@ header_pages:
   - lc.md
   - ug-seminar.md
   - visitors.md
-  - info.md
   - about.md
+  - info.md
+  
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
