@@ -12,9 +12,26 @@ permalink: /lc/
 
 
 
+### Wednesday, 2025-04-09
+**Stefan Hoffelner (University of Vienna)**  
+
+<ul>
+<li><strong>Title:</strong> TBAs </li>
+<li><strong>Abstract:</strong> TBA </li>
+<li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
+<li><strong>Time:</strong> 16:45</li>
+</ul>
+
+
+
+<div style="flex: 0.5; padding-right: 20px;">
+    <h1>Past colloquiums</h1>
+</div>
+
 ### Wednesday, 2025-03-12
 **Vera Fischer(University of Vienna)**  
-
+<details>
+<summary>View Details</summary>
 <ul>
 <li><strong>Title:</strong> Good witnesses </li>
 <li><strong>Abstract:</strong> Two persistent directions in the study of the properties of
@@ -26,12 +43,7 @@ interesting remaining open problems. </li>
 <li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
 <li><strong>Time:</strong> 16:45</li>
 </ul>
-
-
-
-<div style="flex: 0.5; padding-right: 20px;">
-    <h1>Past colloquiums</h1>
-</div>
+</details>
 
 ### Wednesday, 2025-02-12
 **Adam Kwela (University of Gdansk)**  
