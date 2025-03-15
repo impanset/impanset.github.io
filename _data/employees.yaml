@@ -8,6 +8,16 @@
   pos: Post-doctoral researcher
   website: https://sites.google.com/view/christopherhenneyturner/home
 
+- name: Umutcan Kaya (UG)
+  photo: /assets/images/employees/exists.jpg
+  pos: PhD student
+  website: 
+  
+- name: Jan Kostrzon (UG)
+  photo: /assets/images/employees/exists.jpg
+  pos: PhD student
+  website:  
+
 - name: Krzysztof Kowitz (UG)
   photo: /assets/images/employees/exists.jpeg
   pos: University professor
@@ -17,7 +27,12 @@
   photo: /assets/images/employees/Kwela.jpeg
   pos: University professor
   website: https://mat.ug.edu.pl/~akwela/
- 
+  
+- name: Arijeet Mishra (UG)
+  photo: /assets/images/employees/exists.jpg
+  pos: PhD student
+  website:  
+  
 - name: Rahman Mohamamdpour (IMPAN)
   photo: /assets/images/employees/rahman.jpg
   pos: Principal investigator
