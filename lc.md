@@ -13,7 +13,7 @@ permalink: /lc/
 
 
 ### Wednesday, 2025-04-09
-**Stefan Hoffelner (University of Vienna)**  
+**Stefan Hoffelner (technical University of Vienna)**  
 
 <ul>
 <li><strong>Title:</strong>  The global \(\Sigma^1_{n+2}\)-Uniformization Property and \(\mathsf{BPFA}\) </li>
