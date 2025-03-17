@@ -21,7 +21,6 @@ permalink: /stgp/
 <ul>
   <li>Lecturers: Joan Bagaria and Philipp Lücke</li>
   <li>24-27 March 2025 in Gdansk.</li>
-  <li>The workshop is free, but registration is necessary. (<a href="https://docs.google.com/forms/d/e/1FAIpQLSehPUjhHIVgtDXMM3KUZnlh08NxpiVARwUWVBTaCVdMCCmOmQ/viewform?usp=header">Registration form</a>) </li>
   <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li>
   <li>Contact:  Rahman Mohammadpour or Grigor Sargsyan.</li>
   <li>
