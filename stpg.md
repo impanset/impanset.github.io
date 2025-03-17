@@ -59,7 +59,7 @@ Location: University of Gdansk.
       <td colspan="2">Break</td>
     </tr>
     <tr>
-      <td>11:30-12:00</td>
+      <td>11:30-12:30</td>
       <td>Philipp Lücke</td>
       <td>Exacting and Ultraexacting cardinals</td>
     </tr>
@@ -76,7 +76,7 @@ Location: University of Gdansk.
       <td colspan="2">Break</td>
     </tr>
     <tr>
-      <td>11:30-12:00</td>
+      <td>11:30-12:30</td>
       <td>Philipp Lücke</td>
       <td>The consistency of exacting and ultraexacting cardinals</td>
     </tr>
@@ -93,7 +93,7 @@ Location: University of Gdansk.
       <td colspan="2">Break</td>
     </tr>
     <tr>
-      <td>11:30-12:00</td>
+      <td>11:30-12:30</td>
       <td>Philipp Lücke</td>
       <td>Consequences of ultraexactness</td>
     </tr>
@@ -110,7 +110,7 @@ Location: University of Gdansk.
       <td colspan="2">Break</td>
     </tr>
     <tr>
-      <td>11:30-12:00</td>
+      <td>11:30-12:30</td>
       <td>Philipp Lücke</td>
       <td>A consistency proof from large cardinals beyond choice</td>
     </tr>
