@@ -115,3 +115,16 @@ Location: University of Gdansk.
   </tbody>
 </table>
 </div>
+
+<br>
+
+
+<h2>List of Participants</h2>
+
+{% assign participants = site.data.participants %}
+<ul>
+{% for p in participants %}
+    <li>{{ p.Name }} ({{ p.Affiliation }})</li>
+{% endfor %}
+</ul>
+
