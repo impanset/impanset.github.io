@@ -36,7 +36,7 @@ Location: University of Gdansk.
   </div>
 <br>
 <h2>Lectures Schedule</h2>
-<br/>
+
 <div class="table-container">
 <table>
  <thead>
