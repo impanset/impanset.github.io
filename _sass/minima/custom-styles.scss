@@ -238,3 +238,11 @@ td[rowspan="3"]:nth-child(2) {
 table {
     margin-bottom: 0 !important;
 }
+
+h2 {
+    margin-top: 0.5em; /* Reduce space above */
+}
+
+ul {
+    margin-top: 0 !important; /* Remove extra space above */
+}
