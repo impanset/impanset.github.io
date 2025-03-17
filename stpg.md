@@ -11,8 +11,7 @@ permalink: /stgp/
       aesthetics, expandability, applicability, sustainability, and extendability. With an emphasis on smooth knowledge transfer, the series is
       designed to inspire and engage participants at all career stages, fostering a dynamic academic dialogue.”</p>
     <p>
-        Organizers: R. Mohammadpour and G. Sargsyan <br /> 
-        Local organizers: Bartosz Wcisło (Institute of Philosophy, UG)
+        Organizers: R. Mohammadpour and G. Sargsyan
     </p>
 </div>
 <br/>
@@ -21,19 +20,22 @@ permalink: /stgp/
 <ul>
   <li>Lecturers: Joan Bagaria and Philipp Lücke</li>
   <li>24-27 March 2025 in Gdansk.</li>
-  <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li>
-  <li>Contact:  Rahman Mohammadpour or Grigor Sargsyan.</li>
+ <!-- <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li> -->
+  <li>Organizers:  Rahman Mohammadpour or Grigor Sargsyan.</li>
   <li>
 Location: University of Gdansk. 
   All the lectures will be held in the  classrooms S316, S317, and S342 the of  building of the Faculty of Social Sciences. The timetable of lectures is found below.
   </li>
+  <li>
+   Local organizers: Bartosz Wcisło (Institute of Philosophy, UG)
+   </li>
 <ul>
 <br>
   <div style="text-align: left;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2322.600652747466!2d18.570397376299027!3d54.39936839541609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd75256281d839%3A0x97ce22eefa448c6b!2sWydzia%C5%82%20Nauk%20Spo%C5%82ecznych%20Uniwersytetu%20Gda%C5%84skiego!5e0!3m2!1sen!2spl!4v1741512967693!5m2!1sen!2spl" width="300" height="300" style="border:1;" allowfullscreen="no" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 <br>
-
+<h2>Lectures Schedule</h2>
 <br/>
 <div class="table-container">
 <table>
