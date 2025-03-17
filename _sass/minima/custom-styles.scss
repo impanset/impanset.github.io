@@ -234,3 +234,7 @@ td[rowspan="3"]:first-child {
 td[rowspan="3"]:nth-child(2) {
   background-color: #bdf9bd; /* Light green for the room */
 }
+
+table {
+    margin-bottom: 0 !important;
+}
