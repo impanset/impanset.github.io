@@ -18,7 +18,7 @@ permalink: /stgp/
 
 <h2 style="margin-top: 20px;">Structural Reflection and HOD Conjecture</h2>
 <ul>
-  <li>Lecturers: Joan Bagaria and Philipp Lücke</li>
+  <li>Lecturers: Joan Bagaria (<a href="https://drive.google.com/file/d/1O7k_Mf_jXNbG4jCKdS5hRZLxnfSH5Rl-/view?usp=sharing" target="_blank">slides</a>) and Philipp Lücke (<a href="https://drive.google.com/file/d/1SaBlWxYJ939dbhFxPBD2suB-HEEEZW0w/view?usp=share_link" target="_blank">slides</a>) </li>
   <li>24-27 March 2025 in Gdansk.</li>
  <!-- <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li> -->
   <li>Organizers:  Rahman Mohammadpour or Grigor Sargsyan.</li>
@@ -124,4 +124,9 @@ Location: University of Gdansk.
     <li>{{ p.Name }} ({{ p.Affiliation }})</li>
 {% endfor %}
 </ul>
+<br>
+ <div style="flex: 0.5;">
+    <img src="/assets/images/Structural_Wokrshop.jpeg" alt="My Image" style="max-width: 100%; height: auto;" />
+    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Credit: Rahman Mohammadpour</figcaption>
+  </div>
 
