@@ -1,5 +1,5 @@
 ---
-layout: pagg
+layout: page
 title: Baltic Set Theory Seminar
 permalink: /bst/
 ---
