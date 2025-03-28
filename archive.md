@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archivd Activities
+title: Archive
 permalink: /archive/
 ---
 
