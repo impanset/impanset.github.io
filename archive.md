@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Archive
+title: Archivd Activities
 permalink: /archive/
 ---
+
+Baltic Set Theory
