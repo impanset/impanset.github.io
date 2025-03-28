@@ -1,5 +1,5 @@
 ---
-layout: page-sans-title
+layout: page 
 title: Logic Colloquium
 permalink: /lc/
 ---
