@@ -3,6 +3,10 @@ layout: page
 title: Archivd Activities
 permalink: /archive/
 ---
-   <li>gdn-logic.github.io
-/bst.md
+
+    <li>
+            <a href="https://gdn-logic.github.io/bst/">Baltic Set Theory</a> 
+          </li>
+          <li>
+            <a https://gdn-logic.github.io/lc/">Logic Colloquium</a>
           </li>
