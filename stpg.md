@@ -5,7 +5,7 @@ permalink: /stgp/
 ---
 
 <div>
-    <h1>Contemporary Set Theory..</h1>
+    <h1>Contemporary Set Theory</h1>
     <p>"Contemporary Set Theory" is a series of mini-workshops that prioritize content over the traditional focus 
       on results or individual speakers. These workshops highlight futuristic developments in set theory, valuing strength, simplicity, 
       aesthetics, expandability, applicability, sustainability, and extendability. With an emphasis on smooth knowledge transfer, the series is
