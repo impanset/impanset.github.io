@@ -1,7 +1,7 @@
 ---
 layout: page-sans-title
 title: Workshop
-permalink: /It_tree_wkshp/
+permalink: /Ittreewkshp/
 ---
 
 <div>
