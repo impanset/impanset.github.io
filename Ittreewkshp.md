@@ -4,7 +4,7 @@ title: Workshop
 permalink: /Ittreewkshp/
 ---
 <h2 style="margin-top: 20px;">Workshop on Iteration Trees</h2>
-From 22,23,-30, April, 2025
+From 22-30, April, 2025
 <br/>
 IMPAN (Gdansk branch),  Antoniego Abrahama 18, 81-825 Sopot
 
