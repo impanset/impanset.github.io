@@ -3,21 +3,30 @@ layout: page-sans-title
 title: Workshop
 permalink: /Ittreewkshp/
 ---
-
-<div>
-    <h1>Workshop on Iteration Trees</h1>
-    <p>"More information comes soon ”</p>
-</div>
+<h2 style="margin-top: 20px;">Workshop on Iteration Trees</h2>
+22-30, April, 2025
 <br/>
+IMPAN (Gdansk branch),  Antoniego Abrahama 18, 81-825 Sopot
 
-<h2 style="margin-top: 20px;">Iteration Trees</h2>
+**Lecturer: Obrad Kasum (IMJ-PRG)** 
+
+
+
+Kasum will cover the following topics during the workshop.
+<br/>
+<li>Zipper argument</li>
+<li>Iteration trees and countable hulls</li>
+<li>Proof of (\(\omega + 1\))-iterability </li>
+<li>Realizability for trees of length omega </li>
+<li>Construction of an alternating chain</li>
+<li>Homogeneously Suslin sets</li>
+<li>Proof of the projective determinacy</li>
+
+
 <ul>
-  <li>Lecturers: Obrad Kasum (IMJ-PRG) 
-  <li>21-30, April, 2025</li>
- <!-- <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li> -->
-  <li>Organizers:  Rahman Mohammadpour and Grigor Sargsyan</li>
-  <li>
-Location: TBD
-  </li>
-<ul>
+Resource: <a href="https://drive.google.com/file/d/1irjAiXHzFf7ym7XnRyciXKZ_G2AyTDSP/view?usp=sharing">O. Kasum, PROJECTIVE DETERMINACY, MSc memoire, IMJ-PRG, 2021</a> 
+ <ul>
+ 
+ <br/>
+ Organizers:  Rahman Mohammadpour and Grigor Sargsyan
 
