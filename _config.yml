@@ -29,9 +29,7 @@ kramdown:
 header_pages:
   - about.md
   - info.md
-  - Ittreewkshp.md
-  - stpg.md
-  - archive.md
+  - activities.md
   - visitors.md
 
   
