@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+<ul>
+    <li><strong>IMPAN, </strong>Jana i Jędrzeja Śniadeckich 8, 00-656 Warszawa, Poland</li>
+    <li><strong>Email: </strong><a class="u-email" href="mailto:gdn-logic@gmail.com">gdn-logic@gmail.com</a></li>
+</ul>
 
 
 <h2>Current members</h2>
@@ -12,3 +16,6 @@ permalink: /about/
 <div style="height: 40px;"></div>
 <h2>Former members</h2>
 {% include former_employees.html %}
+
+
+

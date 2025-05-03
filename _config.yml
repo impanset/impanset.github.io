@@ -1,4 +1,4 @@
-title: IMPAN Pure Set Theory
+title: IMPAN Pure Set Theory Group
 author:
   name:  Rahman Mohammadpour
   email: gdn-logic@gmail.com
@@ -28,7 +28,6 @@ kramdown:
 # in order as they should show up.
 header_pages:
   - about.md
-  - info.md
   - activities/activities.md
   - visitors.md
 
