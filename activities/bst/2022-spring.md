@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "2022 Spring"
+permalink: /2022-spring/
 ---
 
 <p>

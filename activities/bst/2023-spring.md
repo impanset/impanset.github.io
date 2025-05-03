@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "2023 Spring"
+permalink: /2023-spring/
 ---
 <p>
 <ul>
