@@ -5,13 +5,13 @@ permalink: /activities/
 ---
 
 <li>
- <a href="https://gdn-logic.github.io/stpg/"> Contemporary Set Theory</a>
+ <a href="https://impanset.github.io/activities/contemp-st/"> Contemporary Set Theory</a>
 
 <li>
-<a href="https://gdn-logic.github.io/bst/"> Baltic Set Theory </a> 
+<a href="https://impanset.github.io/activities/bst/"> Baltic Set Theory </a> 
      </li>
 <li>
- <a href="https://gdn-logic.github.io/lc/"> Logic Colloquium </a>
+ <a href="https://impanset.github.io/activities/logic-coll/"> Logic Colloquium </a>
      
 <li>
- <a href="https://gdn-logic.github.io/workshop/"> Workshop for Students </a>
+ <a href="https://impanset.github.io/activities/workhop/"> Workshop for Students </a>

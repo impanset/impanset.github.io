@@ -29,7 +29,7 @@ kramdown:
 header_pages:
   - about.md
   - info.md
-  - activities.md
+  - activities/activities.md
   - visitors.md
 
   
