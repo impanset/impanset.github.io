@@ -1,7 +1,7 @@
 ---
 layout: page-sans-title
 title: Contemporary Set Theory
-permalink: /stgp/
+permalink: /contemp-st/
 ---
 
 <div>

@@ -1,7 +1,7 @@
 ---
 layout: page-sans-title
 title: Workshop
-permalink: /Ittreewkshp/
+permalink: /workhop/
 ---
 <h2 style="margin-top: 20px;">Workshop on Iteration Trees</h2>
 22-30, April, 2025

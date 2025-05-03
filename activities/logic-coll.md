@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Logic Colloquium
-permalink: /lc/
+permalink: /logic-coll/
 ---
 <div style="flex: 0.5; padding-right: 20px;">
     <h1>Upcoming colloquiums</h1>
