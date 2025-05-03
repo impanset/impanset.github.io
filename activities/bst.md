@@ -47,7 +47,7 @@ permalink: /bst/
 
 <ul>
   <li><a href="/bst/2023-spring/" target="_blank">2023 Spring</a></li>
-  <li><a href="/bst/2023-fall/" target="_blank">2023 Fall</a></li>
-  <li><a href="/bst/2022-spring/" target="_blank">2022 Spring</a></li>
-  <li><a href="/bst/2022-fall/" target="_blank">2022 Fall</a></li>
+  <li><a href="/activities/bst/2023-fall/" target="_blank">2023 Fall</a></li>
+  <li><a href="/activities/bst/2022-spring/" target="_blank">2022 Spring</a></li>
+  <li><a href="/activities/bst/2022-fall/" target="_blank">2022 Fall</a></li>
 </ul>
