@@ -1,4 +1,4 @@
-title: Gdansk Mathematical Logic Community
+title: IMPAN Pure Set Theory
 author:
   name:  Rahman Mohammadpour
   email: gdn-logic@gmail.com
@@ -33,7 +33,7 @@ header_pages:
   - stpg.md
   - archive.md
   - visitors.md
-  - ug-seminar.md
+
   
   
 # Set to `true` to show excerpts on the homepage.

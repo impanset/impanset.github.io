@@ -1,13 +1,8 @@
-- name: Rafał Filipów (University of Gdansk)
-  photo: /assets/images/employees/exists.jpeg
-  pos: University professor
-  website: https://mat.ug.edu.pl/~rfilipow/
-
 - name: Christopher Henney-Turner (IMPAN)
   photo: /assets/images/employees/Christopher.jpg
   pos: Post-doctoral researcher
   website: https://sites.google.com/view/christopherhenneyturner/home
-
+  
 - name:   Olaf Kołodziejski (University of Gdansk)
   photo: /assets/images/employees/Olaf.png
   pos: Masters student 
@@ -22,16 +17,6 @@
   photo: /assets/images/employees/exists.jpeg
   pos: PhD student 
   website:  https://gdn-logic.github.io/about/
-
-- name: Krzysztof Kowitz (University of Gdansk)
-  photo: /assets/images/employees/exists.jpeg
-  pos: University professor
-  website: https://old.ug.edu.pl/pracownik/115557/krzysztof_kowitz
- 
-- name: Adam Kwela (University of Gdansk)
-  photo: /assets/images/employees/Kwela.jpeg
-  pos: University professor
-  website: https://mat.ug.edu.pl/~akwela/
   
 - name: Arijeet Mishra (University of Gdansk)
   photo: /assets/images/employees/exists.jpeg
@@ -58,13 +43,3 @@
   pos:  Postdoc
   website: https://gdn-logic.github.io/about/
 
-
-- name: Jacek Tryba (University of Gdansk)
-  photo: /assets/images/employees/exists.jpeg
-  pos: University professor
-  website: https://old.ug.edu.pl/pracownik/79570/jacek_tryba
-
-- name: Bartosz Wcisło (University of Gdansk)
-  photo: /assets/images/employees/bartek.jpg
-  pos: University professor
-  website: https://old.ug.edu.pl/pracownik/107220/bartosz_wcislo
