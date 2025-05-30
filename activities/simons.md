@@ -1,11 +1,11 @@
 ---
-layout: page
-title: Simons Semester in Poland 2026
+layout: page-sans-title
+title: Simons Semester
 permalink: /simons/
 ---
-
-<h1>Gödel's Program</h1>
+<h1>Simons Semester in Poland 2026</h1>
+<h2>Gödel's Program</h2>
 <br/>
-<h2>Organizers:</h2> 
+<strong>Organizers:</strong> 
 Gabriel Goldberg, Sandra Müller, Rahman Mohammadpour,  Grigor Sargsyan
 
