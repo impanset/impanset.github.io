@@ -6,23 +6,23 @@
 - name:   Olaf Kołodziejski (University of Gdansk)
   photo: /assets/images/employees/Olaf.png
   pos: Masters student 
-  website: https://gdn-logic.github.io/about/
+  website:  
 
 - name: Umutcan Kaya (University of Gdansk)
   photo: /assets/images/employees/umut.jpg
   pos: PhD student 
-  website: https://gdn-logic.github.io/about/
+  website: 
 
 - name: Jan Kostrzon (University of Warsaw)
   photo: /assets/images/employees/exists.jpeg
   pos: PhD student 
-  website:  https://gdn-logic.github.io/about/
+  website: 
   
 - name: Arijeet Mishra (University of Gdansk)
   photo: /assets/images/employees/exists.jpeg
   pos: PhD student 
-  website:  https://gdn-logic.github.io/about/
-  
+  website:  
+
 - name: Rahman Mohamamdpour (IMPAN)
   photo: /assets/images/employees/rahman.jpg
   pos: Principal investigator
@@ -31,7 +31,7 @@
 - name: Otto Rajala (IMPAN)
   photo: /assets/images/employees/exists.jpeg
   pos:  Postdoc
-  website: https://gdn-logic.github.io/about/
+  website:  
 
 - name: Grigor Sargsyan (IMPAN)
   photo: /assets/images/employees/grigor.jpeg
@@ -41,5 +41,5 @@
 - name: Sebastiano Thei (IMPAN)
   photo: /assets/images/employees/seba.jpg
   pos:  Postdoc
-  website: https://gdn-logic.github.io/about/
+  website:  
 
