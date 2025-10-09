@@ -1,26 +1,19 @@
 ---
-layout: page-sans-title
+layout: page
 title: Set Theory Seminar
 permalink: /sts/
 ---
 
-<div style="display: flex; align-items: flex-start;">
-  <!-- Left: Text -->
-  <div style="flex: 0.5; padding-right: 20px;">
-    <h1>IMPAN Set Theory Seminar (Wednesdays, 16:00-18:00)</h1>
-    <p> 
-   Organizers: Rahman Mohammadpour and Grigor Sargsyan
+<h2>HOD Conjecture </h2> 
+<strong>
+  Wednesdays, 16:00-18:00
+  </strong>
   <br>
-  Venue: Room No. 6 at IMPAN, Warsaw
-    </p>
-  </div>
-  
-  <!-- Right: Image -->
-  <div style="flex: 0.5;">
-    <img src="/assets/images/Sopot.jpeg" alt="My Image" style="max-width: 100%; height: auto;" />
-    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Credit: Rahman Mohammadpour</figcaption>
-  </div>
-</div>
+ Organized by Rahman Mohammadpour and Grigor Sargsyan
 
-
+<strong>Updates:</strong>
+<li> This is an in-person seminar in room 6 at IMPAN in Warsaw </li>
+<li> The first seminar on 08-10-2025 </li>
+<li> There is no seminar on October 15</li>
+<li> The last seminar in 2025  will be on 17-12-2025</li>
 
