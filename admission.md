@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prospect students
+title: Students
 permalink: /admission/
 ---
 

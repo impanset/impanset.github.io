@@ -1,4 +1,4 @@
-title: IMPAN Pure Set Theory Group
+title: IMPAN Set Theory Group
 author:
   name:  Rahman Mohammadpour
   email: impanset@gmail.com
@@ -29,10 +29,11 @@ kramdown:
 header_pages:
   - about.md
   - activities/simons.md
-  - admission.md
+  - activities/sts.md
   - activities/activities.md
   - visitors.md
-  - gallery.md
+  #- gallery.md
+  - admission.md
   - info.md
 
   
