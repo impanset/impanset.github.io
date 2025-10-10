@@ -246,3 +246,30 @@ h2 {
 ul {
     margin-top: 0 !important; /* Remove extra space above */
 }
+
+/* --- Fix header overlap on small screens --- */
+.site-header {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  flex: 1 1 100%;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.site-nav {
+  flex: 1 1 100%;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* Optionally hide long nav links on very small screens */
+@media (max-width: 500px) {
+  .site-nav a {
+    display: inline-block;
+    margin: 0.25rem 0.5rem;
+  }
+}
