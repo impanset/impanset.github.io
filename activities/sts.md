@@ -16,7 +16,7 @@ permalink: /sts/
 <li> The first seminar on 08-10-2025 </li>
 <li> There are no seminars on October 15 and November 5</li>
 <li> The last seminar in 2025  will be on 17-12-2025</li>
-<hr width="100%", size="1">
+<hr width="100%" size="1">
 
 
 ### Wednesday, 08-10-2025
