@@ -273,3 +273,20 @@ ul {
     margin: 0.25rem 0.5rem;
   }
 }
+
+/* Prevent any element from breaking mobile layout */
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+/* Ensure footer fits the screen */
+.site-footer {
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 1em;
+  text-align: center;
+  word-wrap: break-word;
+}
+
