@@ -72,8 +72,15 @@ body {
 /* ------------------ Page Content ------------------ */
 .page-content {
   width: 100%;
+  max-width: 1200px;   /* limit width on large screens */
   padding: 1rem;
-  margin: 0;
+  margin: 0 auto;      /* center content */
+}
+
+@media (min-width: 1000px) {
+  .page-content {
+    padding: 2rem 3rem; /* extra padding on wide screens */
+  }
 }
 
 /* ------------------ Employee Section ------------------ */
