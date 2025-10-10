@@ -191,49 +191,11 @@ html, body {
   height: auto;
 }
 
-/* ------------------ Footer ------------------ */
-
-/* Wrapper inside footer */
-.footer-inner {
-  max-width: 1200px;  
-  margin: 0 auto;      
-  padding: 1rem;
-  box-sizing: border-box;
-}
-
-.footer-col-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.footer-col,
-.footer-col-right {
-  flex: 1 1 200px; 
-  margin: 0;
-  text-align: left;
-}
-
-@media (max-width: 600px) {
-  .footer-col-wrapper {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-}
-
-.social-links {
-  margin-top: 1rem;
-  text-align: center;
-  width: 100%;
-}
-
+/* ------------------ Minimal Footer ------------------ */
 .site-footer {
   width: 100%;
-  box-sizing: border-box;
-  overflow: hidden;
   padding: 1em 0;
   text-align: center;
-  word-wrap: break-word;
+  box-sizing: border-box;
+  font-size: 0.8em;
 }
