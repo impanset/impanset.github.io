@@ -5,6 +5,19 @@ body {
   background-color: #817d0025;
 }
 
+/* ------------------ Global Width Fix ------------------ */
+html, body {
+  overflow-x: hidden; /* prevent horizontal scroll */
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1200px;   /* desktop maximum width */
+  margin: 0 auto;      
+  padding: 0 1rem;     /* horizontal padding */
+  box-sizing: border-box;
+}
+
 /* ------------------ Header ------------------ */
 .site-header .wrapper {
   display: flex;
@@ -48,8 +61,9 @@ body {
 .page-content {
   width: 100%;
   max-width: 1200px;  
-  padding: 1rem;
   margin: 0 auto;      
+  padding: 1rem;       
+  box-sizing: border-box;
 }
 
 @media (min-width: 1000px) {
@@ -122,7 +136,8 @@ body {
 }
 
 table {
-  width: 80%;
+  width: 100%;
+  max-width: 100%;
   border-collapse: collapse;
   border: 2px solid black;
   margin-bottom: 0 !important;
@@ -172,10 +187,6 @@ th:nth-child(4), td:nth-child(4) {
 
 h2 { margin-top: 0.5em; }
 ul { margin-top: 0 !important; }
-
-html, body {
-  overflow-x: hidden; 
-}
 
 /* Video/Image wrapper */
 .video-wrapper,
