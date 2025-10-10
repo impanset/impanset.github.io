@@ -10,12 +10,27 @@ html, body {
   overflow-x: hidden; /* prevent horizontal scroll */
 }
 
+/* ------------------ Wrapper / Page Width ------------------ */
 .wrapper {
   width: 100%;
-  max-width: 1200px;   /* desktop maximum width */
+  max-width: 980px;    /* original Minima width */
   margin: 0 auto;      
-  padding: 0 1rem;     /* horizontal padding */
+  padding: 0 1rem;     
   box-sizing: border-box;
+}
+
+.page-content {
+  width: 100%;
+  max-width: 980px;  
+  margin: 0 auto;      
+  padding: 1rem;       
+  box-sizing: border-box;
+}
+
+@media (min-width: 1000px) {
+  .page-content {
+    padding: 2rem 3rem; 
+  }
 }
 
 /* ------------------ Header ------------------ */
@@ -54,21 +69,6 @@ html, body {
   .site-nav a {
     display: inline-block;
     margin: 0.25rem 0.5rem;
-  }
-}
-
-/* ------------------ Page Content ------------------ */
-.page-content {
-  width: 100%;
-  max-width: 1200px;  
-  margin: 0 auto;      
-  padding: 1rem;       
-  box-sizing: border-box;
-}
-
-@media (min-width: 1000px) {
-  .page-content {
-    padding: 2rem 3rem; 
   }
 }
 
