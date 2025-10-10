@@ -10,52 +10,24 @@ html, body {
   overflow-x: hidden; /* prevent horizontal scroll */
 }
 
-/* ------------------ Wrapper / Page Width ------------------ */
 .wrapper {
   width: 100%;
-  max-width: 980px;    /* original Minima width */
+  max-width: 1200px;   /* desktop maximum width */
   margin: 0 auto;      
-  padding: 0 1rem;     
+  padding: 0 1rem;     /* horizontal padding */
   box-sizing: border-box;
 }
 
-.page-content {
-  width: 100%;
-  max-width: 980px;  
-  margin: 0 auto;      
-  padding: 1rem;       
-  box-sizing: border-box;
-}
-
-@media (min-width: 1000px) {
-  .page-content {
-    padding: 2rem 3rem; 
-  }
-}
-
-/* ------------------ Header Full Width ------------------ */
-.site-header {
-  width: 100%;
-  background: inherit;
-}
-
-.header-wrapper {
-  width: 100%;
-  max-width: none;        /* full width for header */
+/* ------------------ Header ------------------ */
+.site-header .wrapper {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  flex-wrap: wrap;          
+  justify-content: center;
   align-items: center;
-  padding: 0 1rem;
-  box-sizing: border-box;
+  gap: 0.5rem;
 }
 
-.site-title {
-  flex: 1 1 100%;
-  text-align: center;
-  margin: 0.5rem 0;
-}
-
+.site-title,
 .site-nav {
   flex: 1 1 100%;
   text-align: center;
@@ -63,6 +35,9 @@ html, body {
 }
 
 @media (min-width: 700px) {
+  .site-header .wrapper {
+    justify-content: space-between;
+  }
   .site-title {
     flex: 0 1 auto;
     text-align: left;
@@ -79,6 +54,21 @@ html, body {
   .site-nav a {
     display: inline-block;
     margin: 0.25rem 0.5rem;
+  }
+}
+
+/* ------------------ Page Content ------------------ */
+.page-content {
+  width: 100%;
+  max-width: 1200px;  
+  margin: 0 auto;      
+  padding: 1rem;       
+  box-sizing: border-box;
+}
+
+@media (min-width: 1000px) {
+  .page-content {
+    padding: 2rem 3rem; 
   }
 }
 
