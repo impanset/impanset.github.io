@@ -14,6 +14,39 @@ permalink: /sts/
 <strong>Updates:</strong>
 <li> This is an in-person seminar in room 6 at IMPAN in Warsaw </li>
 <li> The first seminar on 08-10-2025 </li>
-<li> There is no seminar on October 15</li>
+<li> There are no seminars on October 15 and November 5</li>
 <li> The last seminar in 2025  will be on 17-12-2025</li>
+<hr width="100%", size="1">
+
+
+### Wednesday, 08-10-2025
+**Grigor Sargsyan**  
+<ul>
+<li><strong>Title:</strong> An Introduction to the HOD Conjecture</li>
+<li><strong>Abstract:</strong> This introduction traces the historical development of the HOD conjecture up to 2025, emphasizing its significance for solving the Inner Model Problem and advancing the Inner Model Program. </li>
+</ul>
+<hr width="40%", size="1">
+
+### Wednesday, 15-10-2025
+**There is no seminar**  
+<hr width="40%", size="1">
+
+
+### Wednesday, 22-10-2025
+**Dominik Bargieła and Noah Slavitch**  
+
+<ul>
+<li><strong>Title:</strong> Kunen's inconsistency theorem I</li>
+<li><strong>Abstract:</strong> TBA </li>
+</ul>
+<hr width="40%", size="1">
+
+### Wednesday, 29-10-2025
+**Dominik Bargieła and Noah Slavitch**  
+
+<ul>
+<li><strong>Title:</strong> Kunen's inconsistency theorem II</li>
+<li><strong>Abstract:</strong> TBA </li>
+</ul>
+<hr width="70%", size="1">
 
