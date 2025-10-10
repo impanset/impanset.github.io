@@ -125,6 +125,39 @@ footer, .site-footer {
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margin */
 }
+/* --- Responsive Header Fix for Minima --- */
+.site-header .wrapper {
+  display: flex;
+  flex-wrap: wrap;        /* allow wrapping on small screens */
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;            /* small breathing space */
+}
+
+.site-title {
+  flex: 1 1 100%;         /* full width on narrow screens */
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.site-nav {
+  flex: 1 1 100%;         /* full width under title */
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+@media (min-width: 700px) {
+  .site-title {
+    flex: 0 1 auto;       /* restore side-by-side layout */
+    text-align: left;
+  }
+
+  .site-nav {
+    flex: 0 1 auto;
+    text-align: right;
+  }
+}
+
 
 .useful-websites li {
   margin: 5px 0; /* Space between items */
