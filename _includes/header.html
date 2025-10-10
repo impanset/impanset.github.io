@@ -1,5 +1,5 @@
 <header class="site-header">
-  <div class="wrapper">
+  <div class="header-wrapper"> <!-- full-width wrapper for header -->
     <!-- Site Title -->
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {{ site.title | escape }}
@@ -7,7 +7,6 @@
 
     {% if site.pages.size > 0 %}
     <nav class="site-nav">
-      <!-- Mobile menu toggle -->
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
       <label for="nav-trigger">
         <span class="menu-icon">
@@ -20,7 +19,6 @@
         </span>
       </label>
 
-      <!-- Navigation links -->
       <div class="trigger">
         {% assign nav_pages = site.header_pages | default: site.pages %}
         {% for page in nav_pages %}
