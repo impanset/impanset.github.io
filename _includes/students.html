@@ -1,0 +1,12 @@
+<div class="students-list">
+  {% for employee in site.data.students %}
+  <div class="employee">
+    <img src="{{ employee.photo }}" alt="{{ employee.name }}">
+    <div class="employee-info">
+      <h3>{{ employee.name }}</h3>
+      <p>{{ employee.pos }}</p>
+      <a href="{{ employee.website }}" target="_blank" rel="noopener noreferrer"></a>
+    </div>
+  </div>
+  {% endfor %}
+</div>

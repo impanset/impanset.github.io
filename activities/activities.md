@@ -8,13 +8,15 @@ permalink: /activities/
  <a href="/sts/"> IMPAN Set Theory Seminar</a>
 
 <li>
- <a href="/contemp-st/"> Contemporary Set Theory</a>
+ <a href="/logic-coll/">Logic Colloquium </a>
+ 
+<li>
+ Contemporary Set Theory (<a href="/contemp-st/">archived</a>)
 
 <li>
-<a href="/bst/"> Baltic Set Theory </a> 
-     </li>
-<li>
- <a href="/logic-coll/"> Logic Colloquium </a>
+ Baltic Set Theory (<a href="/contemp-st/">archived</a>)
+   
+
      
 <li>
- <a href="/workhop/"> Workshop for Students </a>
+ Workshop for Students (<a href="/contemp-st/">archived</a>)
