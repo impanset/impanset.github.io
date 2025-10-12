@@ -3,30 +3,27 @@ layout: page
 title: Logic Colloquium
 permalink: /logic-coll/
 ---
-<div style="flex: 0.5; padding-right: 20px;">
-    <h1>Upcoming colloquiums</h1>
-</div>
-
-
-
-
-
-
-### Wednesday, 2025-04-09
-**Stefan Hoffelner (Technical University of Vienna)**  
-
-<ul>
-<li><strong>Title:</strong>  The global \(\Sigma^1_{n+2}\)-Uniformization Property and \(\mathsf{BPFA}\) </li>
-<li><strong>Abstract:</strong> We show that given a reflecting cardinal, one can produce a model of \(\mathsf{BPFA}\) where the \(\Sigma^1_n\)-uniformization property holds simultaneously for all \(n \ge 2\) which stands in stark constrast to the situation under \(\mathsf{PFA}\). We do this via a new forcing construction which gets rid of the delimitations caused by a good projective well-order of the reals, which has been the sole tool to obtain global \(\Sigma\)-uniformization. This method seems to be very flexible and we expect it to produce a whole zoo of set theoretic universes in which  global \(\Sigma\)-uniformization holds.  </li>
-<li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
-<li><strong>Time:</strong> 16:45</li>
-</ul>
 
 
 
 <div style="flex: 0.5; padding-right: 20px;">
     <h1>Past colloquiums</h1>
 </div>
+
+
+### Wednesday, 2025-04-09
+**Stefan Hoffelner (Technical University of Vienna)**  
+<details>
+<summary>View Details</summary>
+<ul>
+<li><strong>Title:</strong>  The global \(\Sigma^1_{n+2}\)-Uniformization Property and \(\mathsf{BPFA}\) </li>
+<li><strong>Abstract:</strong> We show that given a reflecting cardinal, one can produce a model of \(\mathsf{BPFA}\) where the \(\Sigma^1_n\)-uniformization property holds simultaneously for all \(n \ge 2\) which stands in stark constrast to the situation under \(\mathsf{PFA}\). We do this via a new forcing construction which gets rid of the delimitations caused by a good projective well-order of the reals, which has been the sole tool to obtain global \(\Sigma\)-uniformization. This method seems to be very flexible and we expect it to produce a whole zoo of set theoretic universes in which  global \(\Sigma\)-uniformization holds.  </li>
+<li><strong>Location: </strong>IMPAN (Gdansk branch), Antoniego Abrahama 18, 81-825 Sopot</li>
+<li><strong>Time:</strong> 16:45</li>
+</ul>
+</details>
+
+
 
 ### Wednesday, 2025-03-12
 **Vera Fischer(University of Vienna)**  

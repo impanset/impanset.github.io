@@ -47,6 +47,6 @@ permalink: /sts/
 <ul>
 <li><strong>Title:</strong> Kunen's inconsistency theorem II</li>
 <li><strong>Abstract:</strong> TBA </li>
-</ul>
-<hr width="70%" size="1">
+</ul>s
+s
 
