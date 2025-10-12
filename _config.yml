@@ -33,8 +33,8 @@ header_pages:
   - activities/activities.md
   - visitors.md
   #- gallery.md
-  - admission.md
-  - info.md
+  #- admission.md
+  #- info.md
 
   
   

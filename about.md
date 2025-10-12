@@ -19,3 +19,11 @@ permalink: /about/
 {% include students.html %} 
 <h3>Former members</h3>
 {% include former_employees.html %}
+
+
+<div style="height: 40px;"></div>
+<h2>Contact</h2>
+<ul>
+    <li><strong>IMPAN, </strong>Jana i Jędrzeja Śniadeckich 8, 00-656 Warszawa, Poland</li>
+    <li><strong>Email: </strong><a class="u-email" href="mailto:impanset@gmail.com">impanset@gmail.com</a></li>
+</ul>
