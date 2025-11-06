@@ -49,3 +49,11 @@ permalink: /sts/
 <li><strong>Abstract:</strong> This theorem is on definability of an inner model under suitable covering and aprroximation properties </li>
 </ul>
 
+### Wednesday, 05-11-2025
+**Rahman Mohammadpour**  
+
+<ul>
+<li><strong>Title:</strong>Approximation and covering properties</li>
+<li><strong>Abstract:</strong></li>
+</ul>
+
