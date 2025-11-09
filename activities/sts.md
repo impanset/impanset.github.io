@@ -18,18 +18,30 @@ permalink: /sts/
 <li> The last seminar in 2025  will be on 17-12-2025</li>
 <hr width="100%" size="2">
 
+### Wednesday, 12-11-2025
+**Umutcan Kaya**  
 
-### Wednesday, 08-10-2025
-**Grigor Sargsyan**  
 <ul>
-<li><strong>Title:</strong> An Introduction to the HOD Conjecture</li>
-<li><strong>Abstract:</strong> This introduction traces the historical development of the HOD conjecture up to 2025, emphasizing its significance for solving the Inner Model Problem and advancing the Inner Model Program. </li>
+<li><strong>Title:</strong> Vopenka algebra</li>
+<li><strong>Abstract: Vopenka algebra, Theorem 6, Corollary 7 and 8 (this is from the tutorial paper) </strong></li>
 </ul>
-<hr width="40%" size="1">
 
-### Wednesday, 15-10-2025
-**There is no seminar**  
-<hr width="40%" size="1">
+### Wednesday, 05-11-2025
+**Rahman Mohammadpour**  
+
+<ul>
+<li><strong>Title:</strong> Approximation and covering properties</li>
+<li><strong>Abstract:</strong></li>
+</ul>
+
+### Wednesday, 29-10-2025
+**Corentin Lagadec**  
+
+<ul>
+<li><strong>Title:</strong> Theorem 5</li>
+<li><strong>Abstract:</strong> This theorem is on definability of an inner model under suitable covering and aprroximation properties </li>
+</ul>
+
 
 
 ### Wednesday, 22-10-2025
@@ -41,19 +53,18 @@ permalink: /sts/
 </ul>
 <hr width="40%" size="1">
 
-### Wednesday, 29-10-2025
-**Corentin Lagadec**  
+### Wednesday, 15-10-2025
+**There is no seminar**  
+<hr width="40%" size="1">
 
+
+### Wednesday, 08-10-2025
+**Grigor Sargsyan**  
 <ul>
-<li><strong>Title:</strong>Theorem 5</li>
-<li><strong>Abstract:</strong> This theorem is on definability of an inner model under suitable covering and aprroximation properties </li>
+<li><strong>Title:</strong> An Introduction to the HOD Conjecture</li>
+<li><strong>Abstract:</strong> This introduction traces the historical development of the HOD conjecture up to 2025, emphasizing its significance for solving the Inner Model Problem and advancing the Inner Model Program. </li>
 </ul>
+<hr width="40%" size="1">
 
-### Wednesday, 05-11-2025
-**Rahman Mohammadpour**  
 
-<ul>
-<li><strong>Title:</strong>Approximation and covering properties</li>
-<li><strong>Abstract:</strong></li>
-</ul>
 
