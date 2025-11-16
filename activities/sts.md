@@ -6,7 +6,7 @@ permalink: /sts/
 
 <h2>HOD Conjecture </h2> 
 <strong>
-  Wednesdays, 16:00-18:00
+  Wednesdays, 16:15-18:15
   </strong>
   <br>
  Organized by Rahman Mohammadpour and Grigor Sargsyan
