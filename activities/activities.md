@@ -14,9 +14,9 @@ permalink: /activities/
  Contemporary Set Theory (<a href="/contemp-st/">archived</a>)
 
 <li>
- Baltic Set Theory (<a href="/contemp-st/">archived</a>)
+ Baltic Set Theory (<a href="/bst/">archived</a>)
    
 
      
 <li>
- Workshop for Students (<a href="/contemp-st/">archived</a>)
+ Workshop for Students (<a href="/workhop/">archived</a>)

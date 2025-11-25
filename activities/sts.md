@@ -18,12 +18,28 @@ permalink: /sts/
 <li> The last seminar in 2025  will be on 17-12-2025</li>
 <hr width="100%" size="2">
 
+### Wednesday, 26-11-2025
+**Olaf Kai Kołodziejski**  
+
+<ul>
+<li><strong>Title:</strong> Solovay Set and Weak Extender Models</li>
+<li><strong> Abstract:</strong> We will prove a Solovay theorem, define an Weak Extender Model for supercompact cardinal and prove basic properties of it. </li>
+</ul>
+
+### Wednesday, 19-11-2025
+**Jan Kostrzon**  
+
+<ul>
+<li><strong>Title:</strong> Chapter 3 (HOD Conjecture) of the tutorials. </li>
+<li><strong> Abstract:</strong> TBA </li>
+</ul>
+
 ### Wednesday, 12-11-2025
 **Umutcan Kaya**  
 
 <ul>
 <li><strong>Title:</strong> Vopenka algebra</li>
-<li><strong>Abstract: Vopenka algebra, Theorem 6, Corollary 7 and 8 (this is from the tutorial paper) </strong></li>
+<li><strong> Abstract: </strong> Vopenka algebra, Theorem 6, Corollary 7 and 8 (this is from the tutorial paper)</li>
 </ul>
 
 ### Wednesday, 05-11-2025
