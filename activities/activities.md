@@ -7,6 +7,9 @@ permalink: /activities/
 <li>
  <a href="/sts/"> IMPAN Set Theory Seminar</a>
 
+li>
+ <a href="/std_smnr/"> Student Seminar</a>
+
 <li>
  <a href="/logic-coll/">Logic Colloquium </a>
  
