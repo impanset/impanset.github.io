@@ -4,7 +4,7 @@ title: Student Seminar
 permalink: /std_smnr/
 ---
 
-<h2>Student Seminar </h2> 
+
 <strong>
   Thursday, 12:00--14:00
   </strong>
