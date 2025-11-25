@@ -29,7 +29,7 @@ permalink: /std_smnr/
 **Umutcan Kaya**  
 <ul>
 <li><strong>Title:</strong> Vopěnka algebra and Its Variations, Part I</li>
-<li><strong>Abstract:</strong> Vopěnka algebra and its properties are going to be briefly discussed and the symmetric version of the Vopěnka algebra is going to be used to add reals to \mathrm{HOD}, forming \(\mathrm{HOD}(\mathbb{R})\). </li>
+<li><strong>Abstract:</strong> Vopěnka algebra and its properties are going to be briefly discussed and the symmetric version of the Vopěnka algebra is going to be used to add reals to \(\mathrm{HOD}\), forming \(\mathrm{HOD}(\mathbb{R})\). </li>
 </ul>
 <hr width="40%" size="1">
 
