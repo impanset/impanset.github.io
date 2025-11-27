@@ -5,6 +5,9 @@ permalink: /activities/
 ---
 
 <li>
+ <a href="/nm/"> Workshop on Nairian Models</a>
+
+<li>
  <a href="/sts/"> IMPAN Set Theory Seminar</a>
 
 <li>
