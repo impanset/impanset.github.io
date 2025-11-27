@@ -29,6 +29,7 @@ kramdown:
 header_pages:
   - about.md
   - activities/simons.md
+  - activities/nm.md
   - activities/sts.md
   - activities/activities.md
   - visitors.md
