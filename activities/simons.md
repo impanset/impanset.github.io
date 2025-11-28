@@ -10,7 +10,7 @@ permalink: /simons/
 Gödel's Program
 </strong>
 </h1>
-<h3>A distinctive five-week event will take place in Warsaw and Będlewo in the summer of 2026. <p>The event is generously supported by the Simons Semester in Poland.</p>
+<h3>A distinctive five-week event will take place in Warsaw and Będlewo in the summer of 2026.
 </h3>
 </center>
 <br>
@@ -21,25 +21,41 @@ May 31, 2026 - July 4, 2026
 <br/>
  Gabriel Goldberg (UC Berkeley); John Steel (UC Berkeley); Hugh Woodin (University of Harvard).
 
-<strong> Conference on Godel's program </strong>
+<strong>Organizers:</strong> <br/>
+Gabriel Goldberg, Rahman Mohammadpour, Sandra Müller,  Grigor Sargsyan.
+
+
+<strong>Activities:</strong>
+<br/>
+ Conference, tutorials, and lectures, and more
+
+ <strong>Tentative Program:</strong>
+<br/>
+
+ <strong>Week I:</strong> Conference (Forcing, Inner Models and Determinacy)
 <br/>
 Location: IMPAN, Będlewo
 <br/>
 Dates: June 1-5, 2026
 <br/>
-The conference will be the next edition of the long-running series of conferences on Core Model Induction. The following is the list of all  the previous edition of this conference: Münsetr 1 , Münster 2, American Institute of Math, Berkeley 1, Münster 3, Irvine 1, Münster 4, Girona 1, Berkeley 2, Münster 5, Irvine 2, Shrödinger Institute, Vienma 1, Berkeley 3,
+
+
+ <strong>Week II:</strong>: Long Games and Applications
+ <br/>
+ Location: IMPAN, Warsaw
 <br/>
 
-<strong> Tutorials</strong> by the leaders
+ <strong>Week III:</strong> Descriptive Inner Model Theory
+ <br/>
+ Location: IMPAN, Warsaw
+<br/>
+
+ <strong>Week IV:</strong> HOD Conjecture
+<br/>
+ Location: IMPAN, Warsaw
+<br/>
+
+ <strong>Week V:</strong> Free
 <br/>
 Location: IMPAN, Warsaw
 <br/>
-Dates: June 8-12, 2026
-<br/>
-<li> Tutorial 1</li>
-<li> Tutorial 2</li>
-<li> Tutorial 3</li>
-<br/>
-<strong>Organizers:</strong> <br/>
-Gabriel Goldberg, Rahman Mohammadpour, Sandra Müller,  Grigor Sargsyan.
-
