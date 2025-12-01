@@ -16,6 +16,11 @@ permalink: /sts/
 <li> The first seminar on 08-10-2025 </li>
 <li> There are no seminars on October 15 </li>
 <li> The last seminar in 2025  will be on 17-12-2025</li>
+
+  <br>
+<strong>Resources:</strong>
+<li> 
+ The HOD Dichotomy by W. Hugh Woodin, Jacob Davis, and Daniel Rodríguez (<a href=" https://arxiv.org/abs/1605.00613">arXiv</a>) </li>
 <hr width="100%" size="2">
 
 ### Wednesday, 26-11-2025
