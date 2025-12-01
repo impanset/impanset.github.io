@@ -17,9 +17,18 @@ permalink: /std_smnr/
 
 
 ### Thursday, 27-11-2025
-**Umutcan Kaya**  
+**Corentin Lagadec**  
 <ul>
 <li><strong>Title:</strong> Vopěnka algebra and Its Variations, Part II</li>
+<li><strong>Abstract:</strong> TBA</li>
+</ul>
+<hr width="40%" size="1">
+
+
+### Thursday, 04-12-2025
+**Umutcan Kaya**  
+<ul>
+<li><strong>Title:</strong> \(\mathbb{P}_{max}\) forcing and applications</li>
 <li><strong>Abstract:</strong> Vopěnka algebra and its properties are going to be briefly discussed and the symmetric version of the Vopěnka algebra is going to be used to add reals to \(\mathrm{HOD}\), forming \(\mathrm{HOD}(\mathbb{R})\). </li>
 </ul>
 <hr width="40%" size="1">
