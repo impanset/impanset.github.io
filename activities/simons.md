@@ -32,7 +32,7 @@ Gabriel Goldberg, Rahman Mohammadpour, Sandra Müller,  Grigor Sargsyan.
  <strong>Tentative Program:</strong>
 <br/>
 
- <strong>Week I:</strong> Conference (Forcing, Inner Models and Determinacy)
+ <strong>Week I:</strong> Conference (Forcing, Inner Models, and Determinacy)
 <br/>
 Location: IMPAN, Będlewo
 <br/>
