@@ -5,13 +5,19 @@ permalink: /activities/
 ---
 
 <li>
- <a href="/nm/"> Workshop on Nairian Models</a>
+ <a href="/ws_2026_take/"> Workshop II, April 2026 (preperation for Simons Semester)</a>
+
+ <li>
+ <a href="/ws_2026_benny/"> Workshop I, February 2026 (preperation for Simons Semester)</a>
 
 <li>
- <a href="/sts/"> IMPAN Set Theory Seminar</a>
+ <a href="/nm/"> Workshop on Nairian Models, Febraury and March 2026 (preperation for Simons Semester)</a>
 
 <li>
- <a href="/std_smnr/"> Student Seminar</a>
+ <a href="/sts/"> IMPAN Set Theory Seminar Fall 2025 </a>
+
+<li>
+ <a href="/std_smnr/">Student Seminar</a>
 
 <li>
  <a href="/logic-coll/">Logic Colloquium </a>

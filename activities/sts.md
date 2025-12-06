@@ -15,13 +15,30 @@ permalink: /sts/
 <li> This is an in-person seminar in room 6 at IMPAN in Warsaw </li>
 <li> The first seminar on 08-10-2025 </li>
 <li> There are no seminars on October 15 </li>
-<li> The last seminar in 2025  will be on 17-12-2025</li>
+<li> The last seminar in 2025  will be on 10-12-2025</li>
 
   <br>
 <strong>Resources:</strong>
 <li> 
  The HOD Dichotomy by W. Hugh Woodin, Jacob Davis, and Daniel Rodríguez (<a href=" https://arxiv.org/abs/1605.00613">arXiv</a>) </li>
 <hr width="100%" size="2">
+
+### Wednesday, 10-12-2025
+**Dominik Bargieła** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong> Abstract:</strong> TBA</li>
+</ul>
+
+
+### Wednesday, 03-12-2025
+**Umutcan Kaya** 
+
+<ul>
+<li><strong>Title:</strong> Theorem 19</li>
+<li><strong> Abstract:</strong> Theorem 19, orollary 20  </li>
+</ul>
 
 ### Wednesday, 26-11-2025
 **Olaf Kai Kołodziejski**  
