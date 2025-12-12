@@ -4,7 +4,7 @@ title: Set Theory Seminar
 permalink: /sts/
 ---
 
-<h2>HOD Conjecture </h2> 
+
 <strong>
   Wednesdays, 16:15-18:15
   </strong>

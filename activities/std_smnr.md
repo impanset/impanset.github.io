@@ -6,7 +6,7 @@ permalink: /std_smnr/
 
 
 <strong>
-  Thursday, 12:00--14:00
+  Thursdays, 12:00--14:00
   </strong>
   <br>
  Organized by students in the pure set theory group of IMPAN.
@@ -16,6 +16,25 @@ permalink: /std_smnr/
 <hr width="100%" size="2">
 
 
+
+
+
+### Thursday, 18-12-2025
+**Jan Kostrzyn**  
+<ul>
+<li><strong>Title:</strong> Square principle in L</li>
+<li><strong>Abstract:</strong> TBA </li>
+</ul>
+<hr width="40%" size="1">
+
+
+### Wednesday, 17-12-2025 at 16:00 (exceptional time)
+**Arijeet Mishra**  
+<ul>
+<li><strong>Title:</strong> Choiceless Cardinals (Continuation)</li>
+<li><strong>Abstract:</strong> I will discuss about large cardinals (especially Berkeley cardinals) which appear in ZF system. </li>
+</ul>
+<hr width="40%" size="1">
 
 ### Thursday, 11-12-2025
 **Arijeet Mishra**  
