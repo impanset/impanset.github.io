@@ -21,8 +21,7 @@ permalink: /nm/
   Location: Mathematical Institute of the Polish Academy of Sciences, Warsaw 
   </li>
  <!-- <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li> -->
- <li>For the second part in Vienna, see <a href="https://www.tuwien.at/en/mg/dmg/imt/workshop-nairian-models">Nairian Models II</a> </li>
-  <li><strong> More details will come soon</strong> 
+  <li><strong> For the second part in Vienna, see <a href="https://www.tuwien.at/en/mg/dmg/imt/workshop-nairian-models">Nairian Models II</a> </strong> 
 <br>
 
 <li>List of Participants
