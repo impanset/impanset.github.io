@@ -12,22 +12,35 @@ permalink: /nm/
     </p>
 </div>
 <br/>
-
 <h2 style="margin-top: 20px;">Nairian Models I</h2>
-<ul>
-  <li>Lecturer: Grigor Sargsyan </li>
-  <li>February 16-20, 2026</li>
-  <li>
-  Location: Mathematical Institute of the Polish Academy of Sciences, Warsaw 
-  </li>
- <!-- <li>We have a limited budget to support highly motivated students, who should ask their advisors to send us a short letter of recommendation at gdn.logic@gmail.com  </li> -->
-  <li><strong> For the second part in Vienna, see <a href="https://www.tuwien.at/en/mg/dmg/imt/workshop-nairian-models">Nairian Models II</a> </strong> 
-<br>
 
-<li>List of Participants
-{% assign participants = site.data.NMparticipants %}
- <ul>
-{% for p in participants %}
-    <li>{{ p.Name }} ({{ p.Affiliation }})</li>
-{% endfor %}
+<ul>
+  <li>Lecturer: Grigor Sargsyan</li>
+  <li>February 16–20, 2026</li>
+  <li>Location: Mathematical Institute of the Polish Academy of Sciences, Warsaw</li>
+
+  <li>
+    <strong>
+      For the second part in Vienna, see
+      <a href="https://www.tuwien.at/en/mg/dmg/imt/workshop-nairian-models">
+        Nairian Models II
+      </a>
+    </strong>
+  </li> 
 </ul>
+ 
+  
+<h2 style="margin-top: 20px;"> List of Participants</h2>
+<ul>
+      {% assign participants = site.data.NMparticipants %}
+      {% for p in participants %}
+        <li>{{ p.Name }} ({{ p.Affiliation }})</li>
+      {% endfor %}
+</ul>
+
+
+<p style="margin-top: 4em;"></p>
+
+<h2 style="margin-top: 20px;">Direction</h2>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.2085930556036!2d21.012133376922726!3d52.22142797198446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471eccef23a16a9b%3A0x84d479b4e7e9993d!2sMathematical%20Institute%20of%20the%20Polish%20Academy%20of%20Sciences!5e0!3m2!1sen!2spl!4v1766004175109!5m2!1sen!2spl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
