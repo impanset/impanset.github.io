@@ -8,7 +8,7 @@ permalink: /nm/
     <h1>Workshop on Nairian Models (Warsaw and Vienna)</h1>
 
     
-<p>Grigor Sargsyan (IMPAN) will give a series of lectures on Nairian models and the most recent advancements in this area. The workshop consists of two parts: Part I will take place in Warsaw (February 16–20, 2026) at IMPAN, and Part II will be held in Vienna (March 2–6, 2026) at TU Wien. The event is organized by Rahman Mohammadpour (IMPAN), Sandra Müller (TU Wien), and Grigor Sargsyan (IMPAN).
+<p>Grigor Sargsyan (IMPAN) will give a series of lectures on Nairian models and the most recent advancements in this area. The workshop consists of two parts: Part I will take place in Warsaw (February 16–20, 2026) at IMPAN, and Part II will be held in Vienna (March 2–6, 2026) at TU Wien. The event is organized by Rahman Mohammadpour (IMPAN) and Sandra Müller (TU Wien).
     </p>
 </div>
 <br/>
