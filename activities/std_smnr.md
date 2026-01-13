@@ -16,6 +16,13 @@ permalink: /std_smnr/
 <hr width="100%" size="2">
 
 
+### Thursday, 15-01-2026 (online)
+**Umutcan Kaya**  
+<ul>
+<li><strong>Title:</strong>  Outline of Inner Model Theory (I)</li>
+<li><strong>Abstract:</strong> We will do topics up to comparison  </li>
+</ul>
+<hr width="40%" size="1">
 
 
 
