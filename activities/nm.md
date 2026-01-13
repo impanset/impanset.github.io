@@ -97,8 +97,8 @@ permalink: /nm/
 </table>
 <br/>
 
-<a href="path/to/workshop-schedule.ics" download="NM-schedule.ics">
-  Download workshop calendar
+<a href="{{ '/assets/calendars/NM-schedule.ics' | relative_url }}">
+  Add Nairian Models Workshop to your calendar
 </a>
   
 <h2 style="margin-top: 20px;"> List of Participants</h2>
