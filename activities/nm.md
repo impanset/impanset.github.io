@@ -97,8 +97,8 @@ permalink: /nm/
 </table>
 <br/>
 
-<a href="~/NM-schedule.ics" download>
-  Download the workshop calendar
+<a href="path/to/workshop-schedule.ics" download="NM-schedule.ics">
+  Download workshop calendar
 </a>
   
 <h2 style="margin-top: 20px;"> List of Participants</h2>
