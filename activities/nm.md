@@ -98,7 +98,7 @@ permalink: /nm/
 <br/>
 
 <a href="{{ '/assets/calendars/NM-schedule.ics' | relative_url }}">
-  Add Nairian Models Workshop to your calendar
+  Add the schedule to your calendar
 </a>
   
 <h2 style="margin-top: 20px;"> List of Participants</h2>
