@@ -29,6 +29,77 @@ permalink: /nm/
   </li> 
 </ul>
  
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Workshop Schedule</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      max-width: 600px;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 8px 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+
+
+<h2>Workshop Schedule</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Date</th>
+      <th>Room</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Monday</td>
+      <td>16.02.2026</td>
+      <td>106</td>
+      <td>16:00–18:00</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>17.02.2026</td>
+      <td>006</td>
+      <td>10:00–12:30</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>18.02.2026</td>
+      <td>006</td>
+      <td>14:15–16:30</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>19.02.2026</td>
+      <td>006</td>
+      <td>09:30–12:00</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>20.02.2026</td>
+      <td>006</td>
+      <td>15:00–17:30</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+<a href="~/NM-schedule.ics" download>
+  Download the workshop calendar
+</a>
   
 <h2 style="margin-top: 20px;"> List of Participants</h2>
 <ul>
