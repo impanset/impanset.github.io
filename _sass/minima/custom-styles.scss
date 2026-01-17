@@ -4,7 +4,7 @@
 
 /* Background */
 body {
-  background-color: #817d0025;
+  background-color: #00ffc342;
 }
 
 /* Prevent horizontal scroll */
@@ -297,7 +297,7 @@ ul {
 /* The Hover Effect */
 .image-link-wrapper:hover .hover-dim-image {
     /* Scale the image slightly for a zoom effect */
-    transform: scale(1.4); 
+    transform: scale(1.42); 
 }
 
 .image-link-wrapper:hover::after {
