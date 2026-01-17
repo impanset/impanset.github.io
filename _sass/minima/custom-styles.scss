@@ -256,27 +256,71 @@ ul {
   text-align: center;
   box-sizing: border-box;
   font-size: 0.8em;
-}
-
-.site-card {
-    display: block;
-    background: #f9f9f9;
-    border: 1px solid #e0e0e0;
-    border-left: 5px solid #4285f4; /* Google Blue */
-    padding: 20px;
+}/* Container to hold the image and handle the layout */
+.image-link-wrapper {
+    display: inline-block; /* Or block, depending on layout */
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px; /* Optional: rounds the corners */
     text-decoration: none;
-    color: #333;
-    transition: transform 0.2s;
-    margin: 20px 0;
 }
 
-.site-card:hover {
-    transform: translateX(5px);
-    background: #fff;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+/* The Image Style */
+.hover-dim-image {
+    display: block;
+    width: 100%; /* Makes it responsive */
+    max-width: 600px; /* Limits size on large screens */
+    height: auto;
+    transition: transform 0.3s ease;
 }
 
-.site-card h3 {
-    margin: 0 0 10px 0;
-    color: #4285f4;
+/* The Colored Overlay (The "Dimming" Layer) */
+/* We use a pseudo-element to create a colored layer on top of the image */
+.image-link-wrapper::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+    /* CHANGE THIS COLOR: Use any rgba value. */
+    /* Example: Google Blue tint with 60% opacity */
+    background-color: rgba(73, 43, 77, 0.6); 
+    /* For black dimming, use: rgba(0, 0, 0, 0.5) */
+    
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.3s ease;
+    pointer-events: none; /* Allows clicks to pass through to the link */
+}
+
+/* The Hover Effect */
+.image-link-wrapper:hover .hover-dim-image {
+    /* Scale the image slightly for a zoom effect */
+    transform: scale(1.4); 
+}
+
+.image-link-wrapper:hover::after {
+    /* Show the colored overlay on hover */
+    opacity: 1; 
+}
+
+/* Optional Overlay Text Style (Hidden by default) */
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(234, 225, 234);
+    font-weight: bold;
+    font-size: 1.2rem;
+    opacity: 0;
+    z-index: 10; /* Ensure text sits on TOP of the colored overlay */
+    transition: opacity 0.3s ease;
+    pointer-events: none; 
+}
+
+/* Show text on hover */
+.image-link-wrapper:hover .overlay-text {
+    opacity: 1;
 }
