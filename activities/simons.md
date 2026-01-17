@@ -4,6 +4,15 @@ title: Simons Semester
 permalink: /simons/
 ---
 
+<!-- Wrapper for responsive sizing -->
+<div class="iframe-container">
+    <iframe 
+        src="[https://sites.google.com/impan.pl/simsem-godelprogram/](https://sites.google.com/impan.pl/simsem-godelprogram/)" 
+        title="My Google Site" 
+        allowfullscreen>
+    </iframe>
+</div>
+
 <center>
 <h1>
 <strong>
