@@ -4,14 +4,13 @@ title: Simons Semester
 permalink: /simons/
 ---
 
-<!-- Wrapper for responsive sizing -->
-<div class="iframe-container">
-    <iframe 
-        src="[https://sites.google.com/impan.pl/simsem-godelprogram/](https://sites.google.com/impan.pl/simsem-godelprogram/)" 
-        title="My Google Site" 
-        allowfullscreen>
-    </iframe>
-</div>
+<a href="[https://sites.google.com/impan.pl/simsem-godelprogram/overview](https://sites.google.com/impan.pl/simsem-godelprogram/overview)" target="_blank" class="site-card">
+    <div class="site-info">
+        <h3>Visit My Project Site</h3>
+        <p>Click here to view the full documentation and resources on Google Sites.</p>
+    </div>
+</a>
+
 
 <center>
 <h1>
