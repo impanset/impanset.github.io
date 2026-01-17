@@ -4,12 +4,12 @@ title: Simons Semester
 permalink: /simons/
 ---
 
-<a href="[https://sites.google.com/impan.pl/simsem-godelprogram/overview](https://sites.google.com/impan.pl/simsem-godelprogram/overview)" target="_blank" class="site-card">
-    <div class="site-info">
-        <h3>Visit My Project Site</h3>
-        <p>Click here to view the full documentation and resources on Google Sites.</p>
-    </div>
+<a href="[https://sites.google.com/view/YOUR-SITE-NAME](https://sites.google.com/view/YOUR-SITE-NAME)" target="_blank" class="image-link-wrapper">
+    <img src="/assets/images/simsemposter.webp" alt="Go to Google Site" class="hover-dim-image">
+    <!-- Optional: Add an overlay text if you want -->
+    <span class="overlay-text">Click to Visit Site</span>
 </a>
+
 
 
 <center>
