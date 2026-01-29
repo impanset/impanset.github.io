@@ -256,26 +256,27 @@ ul {
   text-align: center;
   box-sizing: border-box;
   font-size: 0.8em;
-}/* Container to hold the image and handle the layout */
+}
+
+/* Container to hold the image and handle the layout */
 .image-link-wrapper {
-    display: inline-block; /* Or block, depending on layout */
+    display: inline-block;
     position: relative;
     overflow: hidden;
-    border-radius: 8px; /* Optional: rounds the corners */
+    border-radius: 8px;
     text-decoration: none;
 }
 
 /* The Image Style */
 .hover-dim-image {
     display: block;
-    width: 100%; /* Makes it responsive */
-    max-width: 600px; /* Limits size on large screens */
+    width: 100%;
+    max-width: 600px;
     height: auto;
     transition: transform 0.3s ease;
 }
 
 /* The Colored Overlay (The "Dimming" Layer) */
-/* We use a pseudo-element to create a colored layer on top of the image */
 .image-link-wrapper::after {
     content: "";
     position: absolute;
@@ -283,25 +284,18 @@ ul {
     left: 0;
     width: 100%;
     height: 100%;
-    
-    /* CHANGE THIS COLOR: Use any rgba value. */
-    /* Example: Google Blue tint with 60% opacity */
     background-color: rgba(73, 43, 77, 0.6); 
-    /* For black dimming, use: rgba(0, 0, 0, 0.5) */
-    
-    opacity: 0; /* Hidden by default */
+    opacity: 0;
     transition: opacity 0.3s ease;
-    pointer-events: none; /* Allows clicks to pass through to the link */
+    pointer-events: none;
 }
 
 /* The Hover Effect */
 .image-link-wrapper:hover .hover-dim-image {
-    /* Scale the image slightly for a zoom effect */
     transform: scale(1.42); 
 }
 
 .image-link-wrapper:hover::after {
-    /* Show the colored overlay on hover */
     opacity: 1; 
 }
 
@@ -315,7 +309,7 @@ ul {
     font-weight: bold;
     font-size: 1.2rem;
     opacity: 0;
-    z-index: 10; /* Ensure text sits on TOP of the colored overlay */
+    z-index: 10;
     transition: opacity 0.3s ease;
     pointer-events: none; 
 }
@@ -323,4 +317,85 @@ ul {
 /* Show text on hover */
 .image-link-wrapper:hover .overlay-text {
     opacity: 1;
+}
+
+
+/* ================================================
+   DROPDOWN MENU STYLES (UPDATED)
+   ================================================ */
+
+/* The container for the dropdown */
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+
+/* The dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  
+  /* MODIFICATION: Changed background color to light blue */
+  background-color: #e6f2ff; 
+  
+  /* MODIFICATION: Flexible width logic */
+  min-width: 160px;
+  white-space: nowrap; /* Forces box to expand for long text */
+  
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 100;
+  right: 0;
+  border: 1px solid #98c8f2;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: #333 !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  
+  /* MODIFICATION: Fixes text starting from right */
+  text-align: left; 
+  
+  font-size: 14px;
+  line-height: normal;
+}
+
+/* Hover effects */
+.dropdown-content a:hover {
+  background-color: #98c8f2; /* Darker blue on hover */
+  text-decoration: none;
+}
+
+/* Show dropdown on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+/* --- Mobile Adjustment --- */
+/* MODIFICATION: Changed breakpoint to 700px to match Header logic */
+@media screen and (max-width: 700px) {
+  .dropdown {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .dropdown-content {
+    position: relative;
+    display: block; /* Always show sub-items on mobile */
+    box-shadow: none;
+    background-color: transparent;
+    padding-left: 0;
+    border: none;
+    white-space: normal; /* Allow text wrapping on mobile */
+  }
+
+  .dropdown-content a {
+     padding: 8px 0;
+     color: #666 !important;
+     text-align: center; /* Center align sub-items on mobile */
+  }
 }

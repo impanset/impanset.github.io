@@ -11,22 +11,27 @@ permalink: /activities/
 
 <li>
  <a href="/std_smnr/">Student Seminar</a>
-<hr>
+
 
 
 <h4>Upcoming workshops</h4>
 
 <li>
- <a href="/nm/"> Workshop on Nairian Models (Warsaw), Febraury 2026 (preperation for Simons Semester)</a>
+ <a href="/nm/"> Workshop on Nairian Models I (Warsaw), Febraury 2026 (preperation for Simons Semester)</a>
 
 <li>
- <a href="/ws_2026_benny/"> Workshop I, February 2026 (preperation for Simons Semester)</a>
+ <a href="/ws_2026_benny/"> Workshop on HOD Analysis, February 2026 (preperation for Simons Semester)</a>
 
 <li>
-<a href="/nm/"> Workshop on Nairian Models (Vienna), March 2026 (preperation for Simons Semester)</a>
+<a href="/nm/"> Workshop on Nairian Models  II (Vienna), March 2026 (preperation for Simons Semester)</a>
 
-<li> <a href="/ws_2026_take/"> Workshop II, April 2026 (preperation for Simons Semester)</a>
+<li> <a href="/ws_2026_take/"> Workshop on Determinacy, April 2026 (preperation for Simons Semester)</a>
 
+<li> <a href="/ws_Pmax/"> Workshop on \(\mathbb{P}_{\textsf{max}}\), May 2026 (preperation for Simons Semester)</a>
+
+<li> <a href="/ws_side/"> Workshop on Forcing with Side Conditions, May 2026 (preperation for Simons Semester)</a>
+
+<h4>Upcoming conferences</h4>
 <li> <a href="/simons/"> Simons Semester</a>
 <hr>
 <h4>Past events</h4>

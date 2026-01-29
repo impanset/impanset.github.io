@@ -1,14 +1,14 @@
 ---
 layout: page-sans-title
 title: Workshop
-permalink: /ws_2026_benny/
+permalink: /ws_2026_pmax/
 ---
 <h2 style="margin-top: 20px;">Soon</h2>
-22-26 February, 2026
+May, 2026
 <br/>
 IMPAN Warsaw
 
-**Lecturer: Benjamin Siskind (TU Wien)** 
+**Lecturer: Corentin Lagadec (Paris)** 
 
 
 
