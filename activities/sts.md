@@ -6,7 +6,7 @@ permalink: /sts/
 
 
 <strong>
-  Thursdays, 16:15-18:15
+  Tuesdays, 16:15-18:15
   </strong>
   <br>
  Organized by Rahman Mohammadpour and Grigor Sargsyan
