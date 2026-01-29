@@ -19,18 +19,28 @@
               <a href="#" class="page-link dropbtn">{{ item.title }} ▾</a>
               <div class="dropdown-content">
                 {% for sublink in item.sublinks %}
-                  <a href="{{ sublink.url | relative_url }}" class="dropdown-item"
-                     {% if sublink.new_tab %}target="_blank" rel="noopener noreferrer"{% endif %}>
-                    {{ sublink.title }}
-                  </a>
+                  {% if sublink.url contains "http" %}
+                    <a href="{{ sublink.url }}" class="dropdown-item" target="_blank" rel="noopener noreferrer">
+                      {{ sublink.title }}
+                    </a>
+                  {% else %}
+                    <a href="{{ sublink.url | relative_url }}" class="dropdown-item" 
+                       {% if sublink.new_tab %}target="_blank" rel="noopener noreferrer"{% endif %}>
+                      {{ sublink.title }}
+                    </a>
+                  {% endif %}
                 {% endfor %}
               </div>
             </div>
           {% else %}
-            <a class="page-link" href="{{ item.url | relative_url }}"
-               {% if item.new_tab %}target="_blank" rel="noopener noreferrer"{% endif %}>
-               {{ item.title }}
-            </a>
+            {% if item.url contains "http" %}
+               <a class="page-link" href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+            {% else %}
+               <a class="page-link" href="{{ item.url | relative_url }}" 
+                  {% if item.new_tab %}target="_blank" rel="noopener noreferrer"{% endif %}>
+                  {{ item.title }}
+               </a>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </div>
