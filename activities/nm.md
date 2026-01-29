@@ -1,6 +1,6 @@
 ---
 layout: page-sans-title
-title: Nairian Models
+title: Nairian Models Workshop
 permalink: /nm/
 ---
 
