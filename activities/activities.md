@@ -7,7 +7,7 @@ permalink: /activities/
 <h4>Current seminars</h4>
 
 <li>
- <a href="/sts/"> IMPAN Set Theory Seminar Fall 2025 </a>
+ <a href="/sts/"> IMPAN Set Theory Seminar winter 2026 </a>
 
 <li>
  <a href="/std_smnr/">Student Seminar</a>
@@ -30,6 +30,10 @@ permalink: /activities/
 <li> <a href="/simons/"> Simons Semester</a>
 <hr>
 <h4>Past events</h4>
+
+<li>
+ Set Theory Seminars  (<a href="/sts-archived/">archived</a>)
+
 <li>
  Logic Colloquium (<a href="/logic-coll/">archived</a>)
  
