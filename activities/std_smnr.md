@@ -6,7 +6,7 @@ permalink: /std_smnr/
 
 
 <strong>
-  Thursdays, 12:00--14:00
+  Thursdays, 12:00-14:00, room 1
   </strong>
   <br>
  Organized by students in the pure set theory group of IMPAN.
@@ -14,6 +14,32 @@ permalink: /std_smnr/
 <strong>Updates:</strong>
 <li> This is an in-person seminar in room 1 at IMPAN in Warsaw </li>
 <hr width="100%" size="2">
+
+### Thursday, 11-02-2026 
+**Olaf Kołodziejski**  
+<ul>
+<li><strong>Title:</strong> Comparison Lemma (IV)</li>
+<li><strong>Abstract:</strong> We will cover Comparison Lemma </li>
+</ul>
+<hr width="40%" size="1">
+
+
+### Thursday, 06-02-2026 (online)
+**Umutcan Kaya**  
+<ul>
+<li><strong>Title:</strong>  Outline of Inner Model Theory (IV)</li>
+<li><strong>Abstract:</strong> We will do topics up to comparison  </li>
+</ul>
+<hr width="40%" size="1">
+
+
+### Thursday, 29-01-2026 (online)
+**Umutcan Kaya**  
+<ul>
+<li><strong>Title:</strong>  Outline of Inner Model Theory (III)</li>
+<li><strong>Abstract:</strong> We will do topics up to comparison  </li>
+</ul>
+<hr width="40%" size="1">
 
 
 ### Thursday, 29-01-2026 (online)

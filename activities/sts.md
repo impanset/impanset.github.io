@@ -6,7 +6,7 @@ permalink: /sts/
 
 
 <strong>
-  Tuesdays, 16:15-18:15
+  Tuesdays, 16:00-18:00
   </strong>
   <br>
  Organized by Rahman Mohammadpour and Grigor Sargsyan
@@ -17,11 +17,11 @@ permalink: /sts/
 
  
 
-### Tuesday, 03-02-2026
+### Tuesday,10-02-2026
 **Grigor Sargsyan** 
 
 <ul>
-<li><strong>Title:</strong> An Introduction to Nairian Models (I)</li>
+<li><strong>Title:</strong> An Introduction to Nairian Models</li>
 <li><strong> Abstract:</strong>No abstract</li>
 </ul>
 
