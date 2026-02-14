@@ -4,7 +4,7 @@ title: Workshop
 permalink: /ws_2026_benny/
 ---
 <h2 style="margin-top: 20px;">Soon</h2>
-22-26 February, 2026
+22-26 March, 2026
 <br/>
 IMPAN Warsaw
 

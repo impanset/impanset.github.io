@@ -78,8 +78,8 @@ permalink: /nm/
     <tr>
       <td>Wednesday</td>
       <td>18.02.2026</td>
-      <td>006</td>
-      <td>14:15–16:45</td>
+      <td>321</td>
+      <td>15:30–18:00</td>
     </tr>
     <tr>
       <td>Thursday</td>
