@@ -97,9 +97,11 @@ permalink: /nm/
 </table>
 <br/>
 
-<a href="{{ '/assets/calendars/NM-schedule.ics' | relative_url }}">
+ <!--
+ <a href="{{ '/assets/calendars/NM-schedule.ics' | relative_url }}">
   Add the schedule to your calendar
 </a>
+-->
   
 <h2 style="margin-top: 20px;"> List of Participants</h2>
 <ul>
