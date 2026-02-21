@@ -13,13 +13,16 @@ permalink: /sts/
 
 <strong>Updates:</strong>
 <li> This is an in-person seminar in room 6 at IMPAN in Warsaw </li>
+<hr width="60%" size="5">
+<br>
 
 
- ### Tuesday, 10-02-2026
+
+### Tuesday, 24-02-2026
 **Lukas Koschat (TU Wien)** 
 
 <ul>
-<li><strong>Title:</strong>Full models of \(\textsf{LSA}\)</li>
+<li><strong>Title:</strong> Full models of \(\textsf{LSA}\)</li>
 <li><strong> Abstract:</strong>
 The main topic of the talk is the following recent result: assuming large
 cardinals in the region of three supercompact cardinals and letting \(\kappa\) be the least supercompact cardinal, in each forcing extension where (\kappa\) is countable,
@@ -27,11 +30,29 @@ the minimal inner model containing all universally Baire sets, \(L(uB)\), contai
 </li>
 </ul>
 
+### Tuesday, 10-03-2026
+**Sebastiano Thei** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong> Abstract:</strong> TBA</li>
+</ul>
+
+
+### Tuesday, 17-03-2026
+**Otto Rajala** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong> Abstract:</strong> TBA</li>
+</ul>
+
+<hr width="100%" size="2">
 
 ### Tuesday, 10-02-2026
 **Grigor Sargsyan** 
 
 <ul>
 <li><strong>Title:</strong> An Introduction to Nairian Models</li>
-<li><strong> Abstract:</strong>No abstract</li>
+<li><strong> Abstract:</strong> No abstract</li>
 </ul>
