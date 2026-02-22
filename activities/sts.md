@@ -47,6 +47,22 @@ the minimal inner model containing all universally Baire sets, \(L(uB)\), contai
 <li><strong> Abstract:</strong> TBA</li>
 </ul>
 
+### Tuesday, 31-03-2026
+**TBA** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong> Abstract:</strong> TBA</li>
+</ul>
+
+### Tuesday, 07-04-2026
+**Iljas Farah (York University)** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong> Abstract:</strong> TBA</li>
+</ul>
+
 <hr width="100%" size="2">
 
 ### Tuesday, 10-02-2026
