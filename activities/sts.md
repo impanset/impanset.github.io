@@ -40,7 +40,7 @@ the minimal inner model containing all universally Baire sets, \(L(uB)\), contai
 
 
 ### Tuesday, 17-03-2026
-**Otto Rajala** 
+**Nam Trang (University of North Texas)** 
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
@@ -48,7 +48,7 @@ the minimal inner model containing all universally Baire sets, \(L(uB)\), contai
 </ul>
 
 ### Tuesday, 31-03-2026
-**TBA** 
+**Otto Rajala** 
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
