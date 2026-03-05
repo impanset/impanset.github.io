@@ -24,7 +24,7 @@
       url: /ws_2026_benny/
     - title: HOD Analysis II     # Indented by 2 spaces relative to sublinks
       url: /ws_2026_take/
-    - title: \(\mathbb{P}_{\textsf{max}}\)     # Indented by 2 spaces relative to sublinks
+    - title: An introduction to \(\mathbb{P}_{\textsf{max}}\)     # Indented by 2 spaces relative to sublinks
       url: /ws_2026_pmax/
     - title: Forcing with Side Conditions    # Indented by 2 spaces relative to sublinks
       url: /ws_2026_side/
