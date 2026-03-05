@@ -1,6 +1,6 @@
 ---
 layout: page-sans-title
-title: HOD Analysis 
+title: HOD Analysis I
 permalink: /ws_2026_benny/
 ---
 <h2 style="margin-top: 20px;">An introduction to \(\textrm{HOD}\) computations: \(\textrm{HOD}^{L(\mathbb{R})}\) up to its least strong cardinal</h2>
