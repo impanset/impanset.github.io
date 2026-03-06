@@ -12,7 +12,7 @@ permalink: /sts/
  Organized by Rahman Mohammadpour and Grigor Sargsyan
 
 <strong>Updates:</strong>
-<li> This is an in-person seminar in room 6 at IMPAN in Warsaw </li>
+<li> This is an in-person seminar in room 106 at IMPAN in Warsaw </li>
 <hr width="60%" size="5">
 <br>
 
