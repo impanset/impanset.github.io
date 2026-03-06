@@ -24,8 +24,8 @@ permalink: /sts/
 **Corentin Lagadec** 
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong> Abstract:</strong> TBA</li>
+<li><strong>Title:</strong> The strong Chang's conjecture in \(\mathbb{P}_{\textsf{max}}\) models</li>
+<li><strong> Abstract:</strong> I will present a proof that an improved version of the strong Chang's conjecture can be forced with \(\mathbb{P}_{\textsf{max}}\) over a model of determinacy. </li>
 </ul>
 
 
