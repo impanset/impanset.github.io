@@ -34,6 +34,7 @@ permalink: /sts/
 <li><strong> Abstract:</strong> TBA</li>
 </ul>
 
+### Tuesday, 24-03-2026
 **Jouko Vaananen (University of Helsinki)** 
 
 <ul>
