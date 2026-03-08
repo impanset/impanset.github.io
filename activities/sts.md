@@ -18,20 +18,9 @@ permalink: /sts/
 
 
 
-### Tuesday, 24-02-2026
-**Lukas Koschat (TU Wien)** 
-
-<ul>
-<li><strong>Title:</strong> Full models of \(\textsf{LSA}\)</li>
-<li><strong> Abstract:</strong>
-The main topic of the talk is the following recent result: assuming large
-cardinals in the region of three supercompact cardinals and letting \(\kappa\) be the least supercompact cardinal, in each forcing extension where \(\kappa\) is countable,
-the minimal inner model containing all universally Baire sets, \(L(uB)\), contains an full model of \(\textsf{LSA}\) (Largest Suslin Axiom). The Largest Suslin Axiom is a determinacy axiom of high consistency strength, and hence the result implies that in the given context \(L(uB)\) satisfies very strong determinacy axioms. The result is part of joint work with Sandra Müller and Grigor Sargsyan. The talk is aimed at a general set theory audience and thus a major part of the talk will be dedicated to introducing the relevant concepts, and explainingtheir importance to the study of consistency strength, as well as their connections to recent developments in the endeavour of forcing failures of square principles over models of determinacy.
-</li>
-</ul>
 
 ### Tuesday, 10-03-2026
-**Sebastiano Thei** 
+**Corentin Lagadec** 
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
@@ -64,6 +53,18 @@ the minimal inner model containing all universally Baire sets, \(L(uB)\), contai
 </ul>
 
 <hr width="100%" size="2">
+### Tuesday, 24-02-2026
+**Lukas Koschat (TU Wien)** 
+
+<ul>
+<li><strong>Title:</strong> Full models of \(\textsf{LSA}\)</li>
+<li><strong> Abstract:</strong>
+The main topic of the talk is the following recent result: assuming large
+cardinals in the region of three supercompact cardinals and letting \(\kappa\) be the least supercompact cardinal, in each forcing extension where \(\kappa\) is countable,
+the minimal inner model containing all universally Baire sets, \(L(uB)\), contains an full model of \(\textsf{LSA}\) (Largest Suslin Axiom). The Largest Suslin Axiom is a determinacy axiom of high consistency strength, and hence the result implies that in the given context \(L(uB)\) satisfies very strong determinacy axioms. The result is part of joint work with Sandra Müller and Grigor Sargsyan. The talk is aimed at a general set theory audience and thus a major part of the talk will be dedicated to introducing the relevant concepts, and explainingtheir importance to the study of consistency strength, as well as their connections to recent developments in the endeavour of forcing failures of square principles over models of determinacy.
+</li>
+</ul>
+
 
 ### Tuesday, 10-02-2026
 **Grigor Sargsyan** 
