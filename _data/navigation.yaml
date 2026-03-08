@@ -17,14 +17,14 @@
   sublinks:        # Indented by 2 spaces relative to the dash
     - title: Nairian Models I    # Indented by 2 spaces relative to sublinks
       url: /nm/
-    - title: HOD Analysis     # Indented by 2 spaces relative to sublinks
-      url: /ws_2026_benny/
     - title: Nairian Models II (external link)    # Indented by 2 spaces relative to sublinks
       url: https://www.tuwien.at/en/mg/dmg/imt/workshop-nairian-models
-      new_tab: true
-    - title: Determinacy     # Indented by 2 spaces relative to sublinks
+      new_tab: true 
+    - title: HOD Analysis I    # Indented by 2 spaces relative to sublinks
+      url: /ws_2026_benny/
+    - title: HOD Analysis II     # Indented by 2 spaces relative to sublinks
       url: /ws_2026_take/
-    - title: \(\mathbb{P}_{\textsf{max}}\)     # Indented by 2 spaces relative to sublinks
+    - title: An introduction to \(\mathbb{P}_{\textsf{max}}\)     # Indented by 2 spaces relative to sublinks
       url: /ws_2026_pmax/
     - title: Forcing with Side Conditions    # Indented by 2 spaces relative to sublinks
       url: /ws_2026_side/
