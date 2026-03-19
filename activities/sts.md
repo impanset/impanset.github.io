@@ -19,16 +19,7 @@ permalink: /sts/
 
 
 
-### Tuesday, 17-03-2026
-**Nam Trang (University of North Texas)** 
 
-<ul>
-<li><strong>Title:</strong> Coherent Sequences Constructed over Models of Determinacy </li>
-<li><strong> Abstract:</strong> We construct various types of coherent sequences over models of determinacy. We use these sequences and core model induction arguments to calibrate the  consistency strength of theories extending \(\textrm{MM}(\mathfrak{c})\) and \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1\) such as 
-(1) \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1 + \neg \square_{\omega_1}\).
-(2) \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1 + \neg \square(\omega_2)\).
-This is joint work with M. Zeman.</li>
-</ul>
 
 ### Tuesday, 24-03-2026
 **Jouko Vaananen (University of Helsinki)** 
@@ -85,4 +76,15 @@ the minimal inner model containing all universally Baire sets, \(L(uB)\), contai
 <ul>
 <li><strong>Title:</strong> The strong Chang's conjecture in \(\mathbb{P}_{\textsf{max}}\) models</li>
 <li><strong> Abstract:</strong> I will present a proof that an improved version of the strong Chang's conjecture can be forced with \(\mathbb{P}_{\textsf{max}}\) over a model of determinacy. </li>
+</ul>
+
+### Tuesday, 17-03-2026
+**Nam Trang (University of North Texas)** 
+
+<ul>
+<li><strong>Title:</strong> Coherent Sequences Constructed over Models of Determinacy </li>
+<li><strong> Abstract:</strong> We construct various types of coherent sequences over models of determinacy. We use these sequences and core model induction arguments to calibrate the  consistency strength of theories extending \(\textrm{MM}(\mathfrak{c})\) and \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1\) such as 
+(1) \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1 + \neg \square_{\omega_1}\).
+(2) \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1 + \neg \square(\omega_2)\).
+This is joint work with M. Zeman.</li>
 </ul>
