@@ -45,6 +45,30 @@ permalink: /sts/
 <li><strong> Abstract:</strong> TBA</li>
 </ul>
 
+### Tuesday, 14-04-2026
+**Sebastiano Thei** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong>Abstract:</strong> TBA</li>
+</ul>
+
+### Tuesday, 21-04-2026
+**Rahman Mohammadpour** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong>Abstract:</strong> TBA</li>
+</ul>
+
+### Tuesday, 28-04-2026
+**Rahman Mohammadpour** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong>Abstract:</strong> TBA</li>
+</ul>
+
 <hr width="100%" size="2">
 
 ### Tuesday, 10-02-2026
