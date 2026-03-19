@@ -62,7 +62,7 @@ permalink: /sts/
 </ul>
 
 ### Tuesday, 28-04-2026
-**Rahman Mohammadpour** 
+**TBA** 
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
