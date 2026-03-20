@@ -26,7 +26,7 @@ permalink: /sts/
 
 <ul>
 <li><strong>Title:</strong> New inner models from second order logics</li>
-<li><strong> Abstract:</strong> TBA</li>
+<li><strong> Abstract:</strong> I define a new inner model based on replacing first order logic in Godel’s definition of the constructible hierarchy by the fragment of second order logic in which second order variables range over countable subsets of the domain. I compare this inner model to the previously studied inner models from extended logics, mainly \(C^*\) and \(C(aa)\). I will discuss large cardinals in this model and forcing absoluteness of the its theory. There are many open problems. Time permitting, I will also discuss the inner model \(\textrm{HOD}_1\), obtained in a similar way from the existential fragment of second order logic. This is joint work with Menachem Magidor.</li>
 </ul>
 
 ### Tuesday, 31-03-2026
