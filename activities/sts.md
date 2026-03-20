@@ -46,15 +46,23 @@ permalink: /sts/
 </ul>
 
 ### Tuesday, 14-04-2026
-**Sebastiano Thei** 
+**Piotr Borodulin-Nadzieja (University of Wrocław)** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong> Abstract:</strong> TBA</li>
+</ul>
+
+### Tuesday, 21-04-2026
+**Rahman Mohammadpour** 
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
 <li><strong>Abstract:</strong> TBA</li>
 </ul>
 
-### Tuesday, 21-04-2026
-**Rahman Mohammadpour** 
+### Tuesday, 28-04-2026
+**Sebastiano Thei** 
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
