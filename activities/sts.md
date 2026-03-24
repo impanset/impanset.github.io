@@ -21,7 +21,7 @@ permalink: /sts/
 
 
 
-### Tuesday, 24-03-2026
+### Tuesday, 24-03-2026. (16:45 !!)
 **Jouko Vaananen (University of Helsinki)** 
 
 <ul>
