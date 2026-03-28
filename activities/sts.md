@@ -20,21 +20,12 @@ permalink: /sts/
 
 
 
-
-### Tuesday, 24-03-2026. (16:45 !!)
-**Jouko Vaananen (University of Helsinki)** 
-
-<ul>
-<li><strong>Title:</strong> New inner models from second order logics</li>
-<li><strong> Abstract:</strong> I define a new inner model based on replacing first order logic in Godel’s definition of the constructible hierarchy by the fragment of second order logic in which second order variables range over countable subsets of the domain. I compare this inner model to the previously studied inner models from extended logics, mainly \(C^*\) and \(C(aa)\). I will discuss large cardinals in this model and forcing absoluteness of the its theory. There are many open problems. Time permitting, I will also discuss the inner model \(\textrm{HOD}_1\), obtained in a similar way from the existential fragment of second order logic. This is joint work with Menachem Magidor.</li>
-</ul>
-
 ### Tuesday, 31-03-2026
 **Otto Rajala** 
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong> Abstract:</strong> TBA</li>
+<li><strong>Title:</strong> \(\textrm{GCH}\) in \(C(aa^+)\)</li>
+<li><strong> Abstract:</strong> I will talk about the inner model \(C(aa^+)\) obtained from the \(aa^{+}\)-quantifier which is a variant of the \(aa\)-quantifier. Hence, \(C(aa^+)\) can be viewed as a variant of the inner model \(C(aa)\) introduced by Kennedy-Magidor-Väänänen. The \(aa^+\)-quantifier says that there is a club of countable subsets of the given structure such that the subformula holds in the next admissible set built from the structure and any one of the subsets. In particular, I will present the proof of \(\textrm{GCH}\) in the model \(C(aa^+)\).</li>
 </ul>
 
 ### Tuesday, 07-04-2026
@@ -119,4 +110,13 @@ the minimal inner model containing all universally Baire sets, \(L(uB)\), contai
 (1) \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1 + \neg \square_{\omega_1}\).
 (2) \(\textrm{CH}\) + there is an \(\omega_1\)-dense ideal on \(\omega_1 + \neg \square(\omega_2)\).
 This is joint work with M. Zeman.</li>
+</ul>
+
+
+### Tuesday, 24-03-2026. (16:45 !!)
+**Jouko Vaananen (University of Helsinki)** 
+
+<ul>
+<li><strong>Title:</strong> New inner models from second order logics</li>
+<li><strong> Abstract:</strong> I define a new inner model based on replacing first order logic in Godel’s definition of the constructible hierarchy by the fragment of second order logic in which second order variables range over countable subsets of the domain. I compare this inner model to the previously studied inner models from extended logics, mainly \(C^*\) and \(C(aa)\). I will discuss large cardinals in this model and forcing absoluteness of the its theory. There are many open problems. Time permitting, I will also discuss the inner model \(\textrm{HOD}_1\), obtained in a similar way from the existential fragment of second order logic. This is joint work with Menachem Magidor.</li>
 </ul>
