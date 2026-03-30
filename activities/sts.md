@@ -32,8 +32,8 @@ permalink: /sts/
 **Iljas Farah (York University)** 
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong> Abstract:</strong> TBA</li>
+<li><strong>Title:</strong> Conjugacy of trivial autohomeomorphisms of \(\beta N\setminus N\).</li>
+<li><strong> Abstract:</strong> An autohomeomorphism of the Čech--Stone remainder \(\beta N\setminus N\)  is called trivial if it has a continuous extension to a map from \(\beta N\) into itself. Such map is determined by an almost permutation, which is a bijection between cofinite subsets of \(N\).  By results of W. Rudin and S. Shelah, the question whether nontrivial autohomeomorphisms of \(\beta N\setminus N\) exist is independent from \(\textrm{ZFC}\). We will be considering the so-called rotary autohomeomorphisms. An autohomeomorphism is called rotary if it corresponds to a permutation of \(N\) all of whose cycles are finite. If all autohomeomorphisms are trivial, then the problem of their conjugacy is also trivial (in the usual sense of the word). However the Continuum Hypothesis makes the conjugacy relation nontrivial.  While our results are somewhat incomplete, they suffice to decide whether for example the rotary autohomeomorphisms whose cycles have lengths \(2^{2n}\), for \(n\in N\), and \(2^{2n+1}\), for \(n\in N\), are conjugate. This is a joint work with Will Brian. </li>
 </ul>
 
 ### Tuesday, 14-04-2026
