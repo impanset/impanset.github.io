@@ -1,7 +1,17 @@
+- name: Simon Thomas 
+  affiliation: Rutgers University
+  start_date: "2026-04-13"
+  end_date: "2026-04-18"
+
 - name: Takehiko Gappo
   affiliation: TU Wien
   start_date: "2026-04-07"
   end_date: "2026-04-16"
+
+- name: Iljas Farah
+  affiliation: York University
+  start_date: "2026-04-05"
+  end_date: "2026-04-11"
 
 - name: Nam Trang
   affiliation: University of North Texas
