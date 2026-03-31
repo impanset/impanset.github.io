@@ -58,8 +58,8 @@ IMPAN Warsaw
     <tr>
       <td>Wednesday</td>
       <td>08.04.2026</td>
-      <td>106</td>
-      <td>12:00–15:00</td>
+      <td>321</td>
+      <td>10:30–13:30</td>
     </tr>
     <tr>
       <td>Thursday</td>
