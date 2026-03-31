@@ -18,7 +18,7 @@ permalink: /sts/
 
 
 
-### Tuesday, 07-04-2026 (!!! 16:45)
+### Tuesday, 07-04-2026 (!!! 17:00)
 **Iljas Farah (York University)** 
 
 <ul>
@@ -44,12 +44,8 @@ permalink: /sts/
 
 
 ### Tuesday, 28-04-2026
-**Rahman Mohammadpour** 
+**No talks** 
 
-<ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong>Abstract:</strong> TBA</li>
-</ul>
 
 ### Tuesday, 05-05-2026
 **TBA** 
