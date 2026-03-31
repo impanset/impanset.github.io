@@ -53,7 +53,7 @@ IMPAN Warsaw
       <td>Tuesday</td>
       <td>07.04.2026</td>
       <td>106</td>
-      <td>10:30–13:00</td>
+      <td>13:00–16:00</td>
     </tr>
     <tr>
       <td>Wednesday</td>
