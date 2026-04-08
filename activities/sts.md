@@ -47,7 +47,7 @@ permalink: /sts/
 <li><strong>Abstract:</strong> TBA</li>
 </ul>
 
-### Tuesday, 05-05-2026
+### Tuesday, 12-05-2026
 **Ronnie Chen (University of Warsaw)** 
 
 <ul>
