@@ -18,14 +18,6 @@ permalink: /sts/
 
 
 
-### Tuesday, 07-04-2026 (!!! 17:00)
-**Iljas Farah (York University)** 
-
-<ul>
-<li><strong>Title:</strong> Conjugacy of trivial autohomeomorphisms of \(\beta N\setminus N\).</li>
-<li><strong> Abstract:</strong> An autohomeomorphism of the Čech--Stone remainder \(\beta N\setminus N\)  is called trivial if it has a continuous extension to a map from \(\beta N\) into itself. Such map is determined by an almost permutation, which is a bijection between cofinite subsets of \(N\).  By results of W. Rudin and S. Shelah, the question whether nontrivial autohomeomorphisms of \(\beta N\setminus N\) exist is independent from \(\textrm{ZFC}\). We will be considering the so-called rotary autohomeomorphisms. An autohomeomorphism is called rotary if it corresponds to a permutation of \(N\) all of whose cycles are finite. If all autohomeomorphisms are trivial, then the problem of their conjugacy is also trivial (in the usual sense of the word). However the Continuum Hypothesis makes the conjugacy relation nontrivial.  While our results are somewhat incomplete, they suffice to decide whether for example the rotary autohomeomorphisms whose cycles have lengths \(2^{2n}\), for \(n\in N\), and \(2^{2n+1}\), for \(n\in N\), are conjugate. This is a joint work with Will Brian. </li>
-</ul>
-
 ### Tuesday, 14-04-2026
 **Piotr Borodulin-Nadzieja (University of Wrocław)** 
 
@@ -48,7 +40,15 @@ permalink: /sts/
 
 
 ### Tuesday, 05-05-2026
-**TBA** 
+**Rahman Mohammadpour** 
+
+<ul>
+<li><strong>Title:</strong> TBA</li>
+<li><strong>Abstract:</strong> TBA</li>
+</ul>
+
+### Tuesday, 05-05-2026
+**Ronnie Chen (University of Warsaw)** 
 
 <ul>
 <li><strong>Title:</strong> TBA</li>
@@ -117,4 +117,14 @@ This is joint work with M. Zeman.</li>
 <ul>
 <li><strong>Title:</strong> \(\textrm{GCH}\) in \(C(aa^+)\)</li>
 <li><strong> Abstract:</strong> I will talk about the inner model \(C(aa^+)\) obtained from the \(aa^{+}\)-quantifier which is a variant of the \(aa\)-quantifier. Hence, \(C(aa^+)\) can be viewed as a variant of the inner model \(C(aa)\) introduced by Kennedy-Magidor-Väänänen. The \(aa^+\)-quantifier says that there is a club of countable subsets of the given structure such that the subformula holds in the next admissible set built from the structure and any one of the subsets. In particular, I will present the proof of \(\textrm{GCH}\) in the model \(C(aa^+)\).</li>
+</ul>
+
+
+
+### Tuesday, 07-04-2026 (!!! 17:00)
+**Iljas Farah (York University)** 
+
+<ul>
+<li><strong>Title:</strong> Conjugacy of trivial autohomeomorphisms of \(\beta N\setminus N\).</li>
+<li><strong> Abstract:</strong> An autohomeomorphism of the Čech--Stone remainder \(\beta N\setminus N\)  is called trivial if it has a continuous extension to a map from \(\beta N\) into itself. Such map is determined by an almost permutation, which is a bijection between cofinite subsets of \(N\).  By results of W. Rudin and S. Shelah, the question whether nontrivial autohomeomorphisms of \(\beta N\setminus N\) exist is independent from \(\textrm{ZFC}\). We will be considering the so-called rotary autohomeomorphisms. An autohomeomorphism is called rotary if it corresponds to a permutation of \(N\) all of whose cycles are finite. If all autohomeomorphisms are trivial, then the problem of their conjugacy is also trivial (in the usual sense of the word). However the Continuum Hypothesis makes the conjugacy relation nontrivial.  While our results are somewhat incomplete, they suffice to decide whether for example the rotary autohomeomorphisms whose cycles have lengths \(2^{2n}\), for \(n\in N\), and \(2^{2n+1}\), for \(n\in N\), are conjugate. This is a joint work with Will Brian. </li>
 </ul>
