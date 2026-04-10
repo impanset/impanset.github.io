@@ -22,8 +22,11 @@ permalink: /sts/
 **Piotr Borodulin-Nadzieja (University of Wrocław)** 
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong> Abstract:</strong> TBA</li>
+<li><strong>Title:</strong> On generalizations of ultrafilters</li>
+<li><strong> Abstract:</strong> The notion of an ultrafilter can be naturally generalized in different
+directions, e.g. one can see ultrafilters as particular instances of
+measures or of Boolean homomorphisms. I will overview some results
+concerning these generalizations</li>
 </ul>
 
 ### Tuesday, 21-04-2026
