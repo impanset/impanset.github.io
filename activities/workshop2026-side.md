@@ -4,7 +4,7 @@ title: Workshop
 permalink: /ws_2026_side/
 ---
 <h2 style="margin-top: 20px;">Soon</h2>
-May, 2026
+May 18-22, 2026
 <br/>
 IMPAN Warsaw
 
