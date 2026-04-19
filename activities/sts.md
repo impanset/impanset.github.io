@@ -18,25 +18,21 @@ permalink: /sts/
 
 
 
-### Tuesday, 14-04-2026
-**Piotr Borodulin-Nadzieja (University of Wrocław)** 
 
-<ul>
-<li><strong>Title:</strong> On generalizations of ultrafilters</li>
-<li><strong> Abstract:</strong> The notion of an ultrafilter can be naturally generalized in different
-directions, e.g. one can see ultrafilters as particular instances of
-measures or of Boolean homomorphisms. I will overview some results
-concerning these generalizations</li>
-</ul>
 
 ### Tuesday, 21-04-2026
 **Sebastiano Thei** 
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong>Abstract:</strong> TBA</li>
+<li><strong>Title:</strong> Another proof of Kunen Inconsistency </li>
+<li><strong>Abstract:</strong>  In our previous seminar, we learned many proofs of Kunen Inconsistency. We also proved that \(\textrm{HOD}\) can be close to \(V\), in the presence of an extendible cardinal. In this talk, we address two related questions:
+  <ol>
+    <li> Does the HOD hypothesis imply that \(\textrm{HOD}\) has the cover property above the first strongly compact cardinal?
+    <li> Suppose \(j\) is an elementary embedding from an inner model \(M\) into \(V\). We know that \(M\) cannot be \(V\), but can \(M\) be cardinal correct?
+    </ol>
+The first question is open, while the second one has a negative answer (Goldberg-T.). Both questions are addressed through the lens of PCF theory.
+</li>
 </ul>
-
 
 ### Tuesday, 28-04-2026
 **No talks** 
@@ -130,4 +126,15 @@ This is joint work with M. Zeman.</li>
 <ul>
 <li><strong>Title:</strong> Conjugacy of trivial autohomeomorphisms of \(\beta N\setminus N\).</li>
 <li><strong> Abstract:</strong> An autohomeomorphism of the Čech--Stone remainder \(\beta N\setminus N\)  is called trivial if it has a continuous extension to a map from \(\beta N\) into itself. Such map is determined by an almost permutation, which is a bijection between cofinite subsets of \(N\).  By results of W. Rudin and S. Shelah, the question whether nontrivial autohomeomorphisms of \(\beta N\setminus N\) exist is independent from \(\textrm{ZFC}\). We will be considering the so-called rotary autohomeomorphisms. An autohomeomorphism is called rotary if it corresponds to a permutation of \(N\) all of whose cycles are finite. If all autohomeomorphisms are trivial, then the problem of their conjugacy is also trivial (in the usual sense of the word). However the Continuum Hypothesis makes the conjugacy relation nontrivial.  While our results are somewhat incomplete, they suffice to decide whether for example the rotary autohomeomorphisms whose cycles have lengths \(2^{2n}\), for \(n\in N\), and \(2^{2n+1}\), for \(n\in N\), are conjugate. This is a joint work with Will Brian. </li>
+</ul>
+
+### Tuesday, 14-04-2026
+**Piotr Borodulin-Nadzieja (University of Wrocław)** 
+
+<ul>
+<li><strong>Title:</strong> On generalizations of ultrafilters</li>
+<li><strong> Abstract:</strong> The notion of an ultrafilter can be naturally generalized in different
+directions, e.g. one can see ultrafilters as particular instances of
+measures or of Boolean homomorphisms. I will overview some results
+concerning these generalizations</li>
 </ul>
