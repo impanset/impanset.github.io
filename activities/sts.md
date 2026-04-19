@@ -27,8 +27,8 @@ permalink: /sts/
 <li><strong>Title:</strong> Another proof of Kunen Inconsistency </li>
 <li><strong>Abstract:</strong>  In our previous seminar, we learned many proofs of Kunen Inconsistency. We also proved that \(\textrm{HOD}\) can be close to \(V\), in the presence of an extendible cardinal. In this talk, we address two related questions:
   <ol>
-    <li> Does the HOD hypothesis imply that \(\textrm{HOD}\) has the cover property above the first strongly compact cardinal?
-    <li> Suppose \(j\) is an elementary embedding from an inner model \(M\) into \(V\). We know that \(M\) cannot be \(V\), but can \(M\) be cardinal correct?
+    <li> Does the HOD hypothesis imply that \(\textrm{HOD}\) has the cover property above the first strongly compact cardinal? </li>
+    <li> Suppose \(j\) is an elementary embedding from an inner model \(M\) into \(V\). We know that \(M\) cannot be \(V\), but can \(M\) be cardinal correct?</li>
     </ol>
 The first question is open, while the second one has a negative answer (Goldberg-T.). Both questions are addressed through the lens of PCF theory.
 </li>
