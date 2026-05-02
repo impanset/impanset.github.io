@@ -1,9 +1,15 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
 
-gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
-gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
+# Instead of the github-pages meta-gem, we list the core pieces
+gem "jekyll", "~> 3.9"
+gem "jekyll-sass-converter", "~> 1.5"
+gem "jekyll-seo-tag"
+gem "jekyll-feed"
+gem "jekyll-sitemap"
 
-gem "github-pages", "~> 232"
+# This is the specific one that was blocking you. 
+# We call it directly to bypass the 'github-pages' version check.
+gem "commonmarker", ">= 0.23.0" 
+
+# Required for Ruby 3+ / 4+ compatibility
+gem "webrick"
