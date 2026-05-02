@@ -1,15 +1,23 @@
+# frozen_string_literal: true
 source "https://rubygems.org"
 
-# Instead of the github-pages meta-gem, we list the core pieces
-gem "jekyll", "~> 3.9"
-gem "jekyll-sass-converter", "~> 1.5"
-gem "jekyll-seo-tag"
-gem "jekyll-feed"
-gem "jekyll-sitemap"
+gem "jekyll", "~> 4.3.2"
+gem "minima", "~> 2.5"
+gem "kramdown-parser-gfm"
+gem "webrick", "~> 1.9"
 
-# This is the specific one that was blocking you. 
-# We call it directly to bypass the 'github-pages' version check.
-gem "commonmarker", ">= 0.23.0" 
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+end
+gem "csv", "~> 3.3"
 
-# Required for Ruby 3+ / 4+ compatibility
-gem "webrick"
+gem "base64", "~> 0.3.0"
+
+gem "bibtex-ruby", "~> 6.2"
+
+gem "citeproc", "~> 1.1"
+gem "citeproc-ruby", "~> 2.1"
+gem "csl-styles", "~> 2.0"
+
+gem "jekyll-scholar", "~> 7.3"
