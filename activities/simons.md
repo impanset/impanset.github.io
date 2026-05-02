@@ -6,7 +6,7 @@ permalink: /simons/
 
 <center>
 <h1>
-Simons Semester
+Simons Semester 
 </h1>
 
 <br>
