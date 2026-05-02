@@ -20,30 +20,17 @@ permalink: /sts/
 
 
 
-### Tuesday, 21-04-2026
-**Sebastiano Thei** 
 
-<ul>
-<li><strong>Title:</strong> Another proof of Kunen Inconsistency </li>
-<li><strong>Abstract:</strong>  In our previous seminar, we learned many proofs of Kunen Inconsistency. We also proved that \(\textrm{HOD}\) can be close to \(V\), in the presence of an extendible cardinal. In this talk, we address two related questions:
-  <ol>
-    <li> Does the HOD hypothesis imply that \(\textrm{HOD}\) has the cover property above the first strongly compact cardinal? </li>
-    <li> Suppose \(j\) is an elementary embedding from an inner model \(M\) into \(V\). We know that \(M\) cannot be \(V\), but can \(M\) be cardinal correct?</li>
-    </ol>
-The first question is open, while the second one has a negative answer (Goldberg-T.). Both questions are addressed through the lens of PCF theory.
-</li>
-</ul>
 
-### Tuesday, 28-04-2026
-**No talks** 
+
 
 
 ### Tuesday, 05-05-2026
 **Rahman Mohammadpour** 
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong>Abstract:</strong> TBA</li>
+<li><strong>Title:</strong> Rado's Conjecture on successive cardinals</li>
+<li><strong>Abstract:</strong> An intersection graph is determined by a linearly ordered set, where the vertices are nonempty intervals and edges are pairs of intervals with nonempty intersections. Rado's Conjecture states that if G is an intersection graph, then the chromatic number of G is countable if and only if the chromatic number of every subgraph of G of size the first uncountable cardinal is countable. Rado's Conjecture was shown to be consistent and has been extensively studied by S. Todorcevic. It is straightforward and plausible to generalize Rado's Conjecture to higher cardinals. In his Mostowski lecture in Wrocław, 2024, Todorčević asked whether Rado's Conjecture can hold at two successive cardinals. I shall talk about Rado's Conjecture and its variants. Specifically, I shall report on joint work with M. Eskew where we show that it is consistent that Rado's Conjecture holds at all regular cardinals simultaneously.</li>
 </ul>
 
 ### Tuesday, 12-05-2026
@@ -138,3 +125,20 @@ directions, e.g. one can see ultrafilters as particular instances of
 measures or of Boolean homomorphisms. I will overview some results
 concerning these generalizations</li>
 </ul>
+
+### Tuesday, 21-04-2026
+**Sebastiano Thei** 
+
+<ul>
+<li><strong>Title:</strong> Another proof of Kunen Inconsistency </li>
+<li><strong>Abstract:</strong>  In our previous seminar, we learned many proofs of Kunen Inconsistency. We also proved that \(\textrm{HOD}\) can be close to \(V\), in the presence of an extendible cardinal. In this talk, we address two related questions:
+  <ol>
+    <li> Does the HOD hypothesis imply that \(\textrm{HOD}\) has the cover property above the first strongly compact cardinal? </li>
+    <li> Suppose \(j\) is an elementary embedding from an inner model \(M\) into \(V\). We know that \(M\) cannot be \(V\), but can \(M\) be cardinal correct?</li>
+    </ol>
+The first question is open, while the second one has a negative answer (Goldberg-T.). Both questions are addressed through the lens of PCF theory.
+</li>
+</ul>
+
+### Tuesday, 28-04-2026
+**No talks** 
