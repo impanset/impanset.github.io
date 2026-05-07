@@ -3,7 +3,7 @@ layout: page-sans-title
 title: Workshop
 permalink: /ws_2026_side/
 ---
-<h2 style="margin-top: 20px;">Soon</h2>
+<h2 style="margin-top: 20px;">Forcing with Virtual Models</h2>
 May 25-29, 2026
 <br/>
 IMPAN Warsaw
@@ -54,31 +54,31 @@ IMPAN Warsaw
       <td>Monday</td>
       <td>25.05.2026</td>
       <td>106</td>
-      <td>13:00–16:00</td>
+      <td>13:00–15:00</td>
     </tr>
     <tr>
       <td>Tuesday</td>
       <td>26.05.2026</td>
-      <td>106</td>
-      <td>12:30–15:30</td>
+      <td>403</td>
+      <td>13:00–15:00</td>
     </tr>
     <tr>
       <td>Wednesday</td>
       <td>27.05.2026</td>
       <td>001</td>
-      <td>10:30–13:30</td>
+      <td>11:00–13:00</td>
     </tr>
     <tr>
       <td>Thursday</td>
       <td>28.05.2026</td>
-      <td>106</td>
-      <td>13:00–16:00</td>
+      <td>403</td>
+      <td>13:00–13:00</td>
     </tr>
     <tr>
       <td>Friday</td>
       <td>29.05.2026</td>
       <td>001</td>
-      <td>13:00–16:00</td>
+      <td>13:00–15:00</td>
     </tr>
   </tbody>
 </table>
