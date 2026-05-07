@@ -72,7 +72,7 @@ IMPAN Warsaw
       <td>Thursday</td>
       <td>28.05.2026</td>
       <td>403</td>
-      <td>13:00–13:00</td>
+      <td>13:00–15:00</td>
     </tr>
     <tr>
       <td>Friday</td>
