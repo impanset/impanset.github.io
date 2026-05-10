@@ -24,8 +24,22 @@ permalink: /sts/
 **Ronnie Chen (University of Warsaw)** 
 
 <ul>
-<li><strong>Title:</strong> TBA</li>
-<li><strong>Abstract:</strong> TBA</li>
+<li><strong>Title:</strong> Borel combinatorics and countable model theory</li>
+<li><strong>Abstract:</strong> We consider the global structure of locally countable Borel
+combinatorial problems, by which we mean the construction of Borel
+first-order structures on the reals (or any standard Borel space) that
+live on non-interacting countable subsets. Examples include finding
+Borel n-colorings, perfect matchings, or spanning trees in a given
+locally countable Borel graph; or showing that such a graph may be
+induced by a Borel action of a given countable group. Experience has
+shown that such problems are usually solved by arguing as if working
+with a single countable structure, but with only "canonical" or
+"definable" operations allowed. We formulate a result making this
+precise: the class of all locally countable Borel combinatorial problems
+is equivalent (as a category) to the class of all \(L_{\omega_1\omega}\)
+theories that interpret a certain distinguished theory called \(T_{LN}
+\sqcup T_{sep}\). This talk is based on joint works with Alexander
+Kechris and Rishi Banerjee.</li>
 </ul>
 
 <hr width="100%" size="2">
