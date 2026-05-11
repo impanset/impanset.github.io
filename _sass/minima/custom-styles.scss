@@ -399,3 +399,26 @@ ul {
      text-align: center; /* Center align sub-items on mobile */
   }
 }
+
+img.logo {
+  max-width: 150px;
+  height: auto;
+  display: block;
+  
+  /* 
+     Logic:
+     margin-top: 0
+     margin-right: 20px (creates the gap from the edge)
+     margin-bottom: 20px (space below the logo)
+     margin-left: auto (pushes it to the right)
+  */
+  margin: 0 20px 20px auto; 
+  
+  background: transparent;
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Optional: Hover effect for interactivity */
+img.logo:hover {
+  transform: scale(1.14);
+}
