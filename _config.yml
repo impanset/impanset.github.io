@@ -37,7 +37,7 @@ header_pages:
   #- admission.md
   #- info.md
 
-baseurl: "/imapnset"
+baseurl: "/impanset"
 url: "https://impanset.github.io"
   
 # Set to `true` to show excerpts on the homepage.
