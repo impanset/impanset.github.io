@@ -27,9 +27,9 @@ permalink: /activities/
 
 <li> <a href="/ws_2026_take/"> Workshop on Determinacy, April 2026 (preperation for Simons Semester)</a>
 
-<li> <a href="/ws_Pmax/"> Workshop on \(\mathbb{P}_{\textsf{max}}\), May 2026 (preperation for Simons Semester)</a>
+<li> <a href="/ws_2026_pmax/"> Workshop on \(\mathbb{P}_{\textsf{max}}\), May 2026 (preperation for Simons Semester)</a>
 
-<li> <a href="/ws_side/"> Workshop on Forcing with Side Conditions, May 2026 (preperation for Simons Semester)</a>
+<li> <a href="/ws_2026_side/"> Workshop on Forcing with Side Conditions, May 2026 (preperation for Simons Semester)</a>
 
 <h4>Upcoming conferences</h4>
 <li> <a href="/simons/"> Simons Semester</a>
