@@ -20,27 +20,6 @@ permalink: /sts/
 
 
 
-### Tuesday, 12-05-2026
-**Ronnie Chen (University of Warsaw)** 
-
-<ul>
-<li><strong>Title:</strong> Borel combinatorics and countable model theory</li>
-<li><strong>Abstract:</strong> We consider the global structure of locally countable Borel
-combinatorial problems, by which we mean the construction of Borel
-first-order structures on the reals (or any standard Borel space) that
-live on non-interacting countable subsets. Examples include finding
-Borel n-colorings, perfect matchings, or spanning trees in a given
-locally countable Borel graph; or showing that such a graph may be
-induced by a Borel action of a given countable group. Experience has
-shown that such problems are usually solved by arguing as if working
-with a single countable structure, but with only "canonical" or
-"definable" operations allowed. We formulate a result making this
-precise: the class of all locally countable Borel combinatorial problems
-is equivalent (as a category) to the class of all \(L_{\omega_1\omega}\)
-theories that interpret a certain distinguished theory called \(T_{LN}
-\sqcup T_{sep}\). This talk is based on joint works with Alexander
-Kechris and Rishi Banerjee.</li>
-</ul>
 
 <hr width="100%" size="2">
 
@@ -150,4 +129,27 @@ The first question is open, while the second one has a negative answer (Goldberg
 <ul>
 <li><strong>Title:</strong> Rado's Conjecture on successive cardinals</li>
 <li><strong>Abstract:</strong> An intersection graph is determined by a linearly ordered set, where the vertices are nonempty intervals and edges are pairs of intervals with nonempty intersections. Rado's Conjecture states that if G is an intersection graph, then the chromatic number of G is countable if and only if the chromatic number of every subgraph of G of size the first uncountable cardinal is countable. Rado's Conjecture was shown to be consistent and has been extensively studied by S. Todorcevic. It is straightforward and plausible to generalize Rado's Conjecture to higher cardinals. In his Mostowski lecture in Wrocław, 2024, Todorčević asked whether Rado's Conjecture can hold at two successive cardinals. I shall talk about Rado's Conjecture and its variants. Specifically, I shall report on joint work with M. Eskew where we show that it is consistent that Rado's Conjecture holds at all regular cardinals simultaneously.</li>
+</ul>
+
+
+### Tuesday, 12-05-2026
+**Ronnie Chen (University of Warsaw)** 
+
+<ul>
+<li><strong>Title:</strong> Borel combinatorics and countable model theory</li>
+<li><strong>Abstract:</strong> We consider the global structure of locally countable Borel
+combinatorial problems, by which we mean the construction of Borel
+first-order structures on the reals (or any standard Borel space) that
+live on non-interacting countable subsets. Examples include finding
+Borel n-colorings, perfect matchings, or spanning trees in a given
+locally countable Borel graph; or showing that such a graph may be
+induced by a Borel action of a given countable group. Experience has
+shown that such problems are usually solved by arguing as if working
+with a single countable structure, but with only "canonical" or
+"definable" operations allowed. We formulate a result making this
+precise: the class of all locally countable Borel combinatorial problems
+is equivalent (as a category) to the class of all \(L_{\omega_1\omega}\)
+theories that interpret a certain distinguished theory called \(T_{LN}
+\sqcup T_{sep}\). This talk is based on joint works with Alexander
+Kechris and Rishi Banerjee.</li>
 </ul>
