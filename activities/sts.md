@@ -16,13 +16,6 @@ permalink: /sts/
 <hr width="60%" size="5">
 <br>
 
-
-
-
-
-
-<hr width="100%" size="2">
-
 ### Tuesday, 10-02-2026
 **Grigor Sargsyan** 
 
