@@ -11,7 +11,7 @@ permalink: /stusem/
   <br>
  Organized by students in the set theory group of IMPAN.
 
- This is an in-person seminar in room 1 at IMPAN in Warsaw. For more info, contact e.g. Otto Rajala (orajala [at] impan [dot] pl) 
+ This is an in-person seminar in room 1 at IMPAN in Warsaw. For more info, contact e.g. Umutcan Kaya (umutcanmath [at] gmail [dot] com). 
 <hr width="100%" size="2">
 
 **Autumn 26**
