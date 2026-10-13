@@ -8,11 +8,17 @@
   url: #
   sublinks:        # Indented by 2 spaces relative to the dash
     - title: Set Theory Seminar     # Indented by 2 spaces relative to sublinks
-      url: /sts/
+      url: /seminar2627/
     - title: Student Seminar     # Indented by 2 spaces relative to sublinks
-      url: /std_smnr/
+      url: /stusem/
 
-- title: Workshops
+- title: Workshops    
+  url: #   
+  sublinks: #
+    - title: To be updated
+      url: /ws_tba/
+  
+- title: Past workshops
   url: #
   sublinks:        # Indented by 2 spaces relative to the dash
     - title: Nairian Models I    # Indented by 2 spaces relative to sublinks
@@ -33,4 +39,4 @@
   url: /visitors/
 
 - title: Archive
-  url: /activities/
+  url: /archive/
