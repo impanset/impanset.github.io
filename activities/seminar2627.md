@@ -14,16 +14,13 @@ This is an in-person seminar in room 403 at IMPAN in Warsaw
 
 Organized by Sebastiano Thei and Otto Rajala 
 
+ <hr width="80%" size="1">
 
 
- 
-
-
-### Wednesday, 21-10-2026
+#### Wednesday, 21-10-2026
 ** No seminar **
 
-
-### Wednesday, 14-10-2026
+#### Wednesday, 14-10-2026
 **Arijeet Mishra (University of Gdansk)** 
 
 <ul>
@@ -33,10 +30,10 @@ In this talk, I will briefly explain full normalization of mouse pairs and also 
 </li>
 </ul>
 
-### Wednesday, 7-10-2026
+#### Wednesday, 7-10-2026
 ** No seminar **
 
-### Wednesday, 30-09-2026
+#### Wednesday, 30-09-2026
 **Jan Kostrzon (University of Warsaw)** 
 
 <ul>
