@@ -21,7 +21,7 @@ permalink: /stusem/
   <strong> Schedule </strong>
   <li> September 29 : Umutcan Kaya starts presenting the condensation proof from section 5 of <em> Outline </em> </li>
   <li> October 6: Umut continues with the condensation proof </li>
-  <li> October 13: Umut finishes the condensation proof </li>
+  <li> October 13: <strong> exceptionally at 16-18</strong> Umut finishes the condensation proof </li>
 
   
 
