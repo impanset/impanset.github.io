@@ -16,6 +16,10 @@ Organized by Sebastiano Thei and Otto Rajala
 
  <hr width="80%" size="1">
 
+### Schedule Autumn 2026
+Titles and abstracts below
+*September 29 Jan Kostrzon
+
 
 #### Wednesday, 21-10-2026
 ** No seminar **
