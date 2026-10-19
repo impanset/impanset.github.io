@@ -36,22 +36,22 @@ Titles and abstracts below
       <td>University of Warsaw</td>
     </tr>
     <tr>
-      <td>October 6</td>
+      <td>October 7</td>
       <td>no seminar</td>
       <td> </td>
     </tr>
     <tr>
-      <td>October 13</td>
+      <td>October 14</td>
       <td>Arijeet Mishra</td>
       <td>University of Gdansk</td>
     </tr>
     <tr>
-      <td>October 20</td>
+      <td>October 21</td>
       <td>no seminar</td>
       <td> </td>
     </tr>
     <tr>
-      <td>October 27</td>
+      <td>October 28</td>
       <td>Umutcan Kaya</td>
       <td>University of Warsaw</td>
     </tr>
@@ -76,7 +76,7 @@ Titles and abstracts below
       <td>University of Warsaw </td>
     </tr>
     <tr>
-      <td>December 3</td>
+      <td>December 2</td>
       <td>Matteo Viale</td>
       <td> University of Torino, Italy </td>
     </tr>
