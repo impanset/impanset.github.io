@@ -67,8 +67,8 @@ Titles and abstracts below
     </tr>
      <tr>
       <td>November 18</td>
-      <td>TBA </td>
-      <td>TBA </td>
+      <td> M. Catalina Torres </td>
+      <td> University of Barcelona, Spain </td>
     </tr>
      <tr>
       <td>November 25</td>
