@@ -16,17 +16,81 @@ Organized by Sebastiano Thei and Otto Rajala
 
  <hr width="80%" size="1">
 
-### Schedule Autumn 2026
+#### Schedule Autumn 2026
 Titles and abstracts below
-*September 29 Jan Kostrzon
 
 
-#### Wednesday, 21-10-2026
-** No seminar **
 
-#### Wednesday, 14-10-2026
-**Arijeet Mishra (University of Gdansk)** 
+<table style="width:50%" >
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr > 
+         <td>September 30</td>
+      <td>Jan Kostrzon</td>
+      <td>University of Warsaw</td>
+    </tr>
+    <tr>
+      <td>October 6</td>
+      <td>no seminar</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>October 13</td>
+      <td>Arijeet Mishra</td>
+      <td>University of Gdansk</td>
+    </tr>
+    <tr>
+      <td>October 20</td>
+      <td>no seminar</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>October 27</td>
+      <td>Umutcan Kaya</td>
+      <td>University of Warsaw</td>
+    </tr>
+       <tr>
+      <td>November 4</td>
+      <td>Grigorii Stepanov</td>
+      <td>TU Wien, Austria</td>
+    </tr>
+        <tr>
+      <td>November 11</td>
+      <td>no seminar</td>
+      <td> </td>
+    </tr>
+     <tr>
+      <td>November 18</td>
+      <td>TBA </td>
+      <td>TBA </td>
+    </tr>
+     <tr>
+      <td>November 25</td>
+      <td>Ronnie Chen </td>
+      <td>University of Warsaw </td>
+    </tr>
+    <tr>
+      <td>December 3</td>
+      <td>Matteo Viale</td>
+      <td> University of Torino, Italy </td>
+    </tr>
+    <tr>
+      <td>December 9</td>
+      <td>TBA</td>
+      <td>TBA</td>
+    </tr>
+  </tbody>
+</table>
 
+<br>
+
+**Arijeet Mishra (University of Gdansk)** 14-10-2026
 <ul>
 <li><strong>Title:</strong> Berkeley Cardinals and Full Normalization of Mouse Pairs </li>
 <li><strong> Abstract:</strong>
@@ -34,11 +98,7 @@ In this talk, I will briefly explain full normalization of mouse pairs and also 
 </li>
 </ul>
 
-#### Wednesday, 7-10-2026
-** No seminar **
-
-#### Wednesday, 30-09-2026
-**Jan Kostrzon (University of Warsaw)** 
+**Jan Kostrzon (University of Warsaw)** 30-09-2026
 
 <ul>
 <li><strong>Title:</strong> An overview of minimal model of determinacy satisfying 'all sets are universally baire'</li>
