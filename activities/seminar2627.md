@@ -83,8 +83,8 @@ Titles and abstracts below
     </tr>
     <tr>
       <td>December 9</td>
-      <td>TBA</td>
-      <td>TBA</td>
+      <td> Tomasz Żuchowski  </td>
+      <td> IMPAN </td>
     </tr>
   </tbody>
 </table>
