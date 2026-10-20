@@ -68,7 +68,8 @@ Titles and abstracts below
      <tr>
       <td>November 18</td>
       <td> M. Catalina Torres </td>
-      <td> University of Barcelona, Spain </td>
+      <td> University of Barcelona, Spain <br />
+      TU Wien, Austria </td>
     </tr>
      <tr>
       <td>November 25</td>
