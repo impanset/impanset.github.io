@@ -91,11 +91,19 @@ Titles and abstracts below
 
 <br>
 
+**Umutcan Kaya (University of Warsaw)** 28-10-2026
+<ul>
+<li><strong>Title:</strong> Descriptive Inner Model Theory : from a perspective of a graduate student </li>
+<li><strong> Abstract:</strong>
+From a graduate student perspective I will try to investigate Gödel's and Steel's program. The importance of the comparison theory of mice will be particularly discussed. The talk will be introductory to the most of the material.
+</li>
+</ul>
+
 **Arijeet Mishra (University of Gdansk)** 14-10-2026
 <ul>
 <li><strong>Title:</strong> Berkeley Cardinals and Full Normalization of Mouse Pairs </li>
 <li><strong> Abstract:</strong>
-In this talk, I will briefly explain full normalization of mouse pairs and also a related result which is required to establish Berkeleyness of all regular uncountable cardinals below \Theta.
+In this talk, I will briefly explain full normalization of mouse pairs and also a related result which is required to establish Berkeleyness of all regular uncountable cardinals below \( \Theta \).
 </li>
 </ul>
 
@@ -104,7 +112,7 @@ In this talk, I will briefly explain full normalization of mouse pairs and also 
 <ul>
 <li><strong>Title:</strong> An overview of minimal model of determinacy satisfying 'all sets are universally baire'</li>
 <li><strong> Abstract:</strong>
-I will present a type of derived model of the form L^F(P(R)). I will explain F predicate, and basic properties of the model.
+I will present a type of derived model of the form \( L^F(P(R)) \). I will explain F predicate, and basic properties of the model.
 I will also present my current working question about the model: extending classical theorem on embedding of determinacy model into derived model of its HOD.
 </li>
 </ul>
