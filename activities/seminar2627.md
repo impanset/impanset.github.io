@@ -6,7 +6,7 @@ permalink: /seminar2627/
 
 
 <strong>
-  Wednesdays, 10:10-12:00
+  Wednesdays, 10:00-12:00
   </strong>
   <br>
 
@@ -51,12 +51,15 @@ Titles and abstracts below
       <td> </td>
     </tr>
     <tr>
-      <td>October 28</td>
+      <td>October 28 <br>
+       <strong> Room 6 </strong>
+       </td>
       <td>Umutcan Kaya</td>
       <td>University of Warsaw</td>
     </tr>
        <tr>
-      <td>November 4</td>
+      <td>November 4 <br>
+      <strong> Room 6 </strong> </td>
       <td>Grigorii Stepanov</td>
       <td>TU Wien, Austria</td>
     </tr>
@@ -83,35 +86,43 @@ Titles and abstracts below
     </tr>
     <tr>
       <td>December 9</td>
-      <td> Tomasz Żuchowski  </td>
-      <td> IMPAN </td>
+      <td> Lukas Koschat  </td>
+      <td> TU Wien, Austria </td>
     </tr>
   </tbody>
 </table>
 
 <br>
 
-**Umutcan Kaya (University of Warsaw)** 28-10-2026
+
+**Grigorii Stepanov (TU Wien, Austria)** 04-11-2026 **Room 6**
+
 <ul>
-<li><strong>Title:</strong> Descriptive Inner Model Theory : from a perspective of a graduate student </li>
-<li><strong> Abstract:</strong>
+<li> <strong> Title </strong>: Measures and Higher Stationarity under the Axiom of Determinacy </li>
+<li> <strong> Abstract </strong>: In this talk I shall cover some basic combinatorial consequences of AD. Starting off with Solovay/Martin theorem that \( \omega_1 \) is measurable under AD, we will look how this extends to larger regular cardinals. I will show how this defines the structure of the Higher Stationary Reflection. Comparing this purely combinatorial results with their inner-model theoretic analogues I pose some open questions. </li>
+</ul>
+
+**Umutcan Kaya (University of Warsaw)** 28-10-2026 **Room 6**
+<ul>
+<li><strong>Title</strong>: Descriptive Inner Model Theory : from a perspective of a graduate student </li>
+<li><strong> Abstract</strong>:
 From a graduate student perspective I will try to investigate Gödel's and Steel's program. The importance of the comparison theory of mice will be particularly discussed. The talk will be introductory to the most of the material.
 </li>
 </ul>
 
 **Arijeet Mishra (University of Gdansk)** 14-10-2026
 <ul>
-<li><strong>Title:</strong> Berkeley Cardinals and Full Normalization of Mouse Pairs </li>
-<li><strong> Abstract:</strong>
+<li><strong>Title</strong>: Berkeley Cardinals and Full Normalization of Mouse Pairs </li>
+<li><strong> Abstract</strong>:
 In this talk, I will briefly explain full normalization of mouse pairs and also a related result which is required to establish Berkeleyness of all regular uncountable cardinals below \( \Theta \).
 </li>
 </ul>
 
-**Jan Kostrzon (University of Warsaw)** 30-09-2026
+**Jan Kostrzon (University of Warsaw)** 30-09-2026 
 
 <ul>
-<li><strong>Title:</strong> An overview of minimal model of determinacy satisfying 'all sets are universally baire'</li>
-<li><strong> Abstract:</strong>
+<li><strong>Title</strong>: An overview of minimal model of determinacy satisfying 'all sets are universally baire'</li>
+<li><strong> Abstract</strong>:
 I will present a type of derived model of the form \( L^F(P(R)) \). I will explain F predicate, and basic properties of the model.
 I will also present my current working question about the model: extending classical theorem on embedding of determinacy model into derived model of its HOD.
 </li>
