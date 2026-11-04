@@ -10,7 +10,7 @@ permalink: /seminar2627/
   </strong>
   <br>
 
-This is an in-person seminar in room 403 at IMPAN in Warsaw 
+This is an in-person seminar in **room 6** at IMPAN in Warsaw 
 
 Organized by Sebastiano Thei and Otto Rajala 
 
@@ -52,14 +52,14 @@ Titles and abstracts below
     </tr>
     <tr>
       <td>October 28 <br>
-       <strong> Room 6 </strong>
+       <strong> NB room 6 </strong>
        </td>
       <td>Umutcan Kaya</td>
       <td>University of Warsaw</td>
     </tr>
        <tr>
       <td>November 4 <br>
-      <strong> Room 6 </strong> </td>
+      <strong> NB room 6 </strong> </td>
       <td>Grigorii Stepanov</td>
       <td>TU Wien, Austria</td>
     </tr>
