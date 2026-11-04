@@ -6,7 +6,7 @@ permalink: /seminar2627/
 
 
 <strong>
-  Wednesdays, 10:00-12:00
+  Wednesdays, 10:10-12:00
   </strong>
   <br>
 
