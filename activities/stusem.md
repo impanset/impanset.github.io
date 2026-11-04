@@ -23,6 +23,8 @@ permalink: /stusem/
   <li> October 6: Umut continues with the condensation proof </li>
   <li> October 13: <strong> exceptionally at 16-18</strong> Umut finishes the condensation proof </li>
   <li> October 20: <strong> on Zoom </strong> Arijeet Mishra presents K^c constructions from section 6 of <em> Outline </em> </li>
+  <li> October 27:  Arijeet continues on the K^c constructions </li>
+  <li> November 3:  Arijeet finishes with the K^c constructions </li>
 
   
 

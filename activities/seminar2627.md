@@ -51,15 +51,13 @@ Titles and abstracts below
       <td> </td>
     </tr>
     <tr>
-      <td>October 28 <br>
-       <strong> NB room 6 </strong>
+      <td>October 28 
        </td>
       <td>Umutcan Kaya</td>
       <td>University of Warsaw</td>
     </tr>
        <tr>
-      <td>November 4 <br>
-      <strong> NB room 6 </strong> </td>
+      <td>November 4 </td>
       <td>Grigorii Stepanov</td>
       <td>TU Wien, Austria</td>
     </tr>
@@ -88,6 +86,11 @@ Titles and abstracts below
       <td>December 9</td>
       <td> Lukas Koschat  </td>
       <td> TU Wien, Austria </td>
+    </tr>
+    <tr>
+      <td>December 16</td>
+      <td>  Tomasz Żuchowski </td>
+      <td>  IMPAN  </td>
     </tr>
   </tbody>
 </table>
