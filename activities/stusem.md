@@ -19,12 +19,14 @@ permalink: /stusem/
   In the autumn we will read sections 5-7(/8) of Steel's *An outline of inner model theory* and then we start with Larson's *The Stationary Tower*
 
   <strong> Schedule </strong>
-  <li> September 29 : Umutcan Kaya starts presenting the condensation proof from section 5 of <em> Outline </em> </li>
+  <li> September 29 : Umut starts presenting the condensation proof from section 5 of <em> Outline </em> </li>
   <li> October 6: Umut continues with the condensation proof </li>
   <li> October 13: <strong> exceptionally at 16-18</strong> Umut finishes the condensation proof </li>
-  <li> October 20: <strong> on Zoom </strong> Arijeet Mishra presents K^c constructions from section 6 of <em> Outline </em> </li>
+  <li> October 20: <strong> on Zoom </strong> Arijeet presents K^c constructions from section 6 of <em> Outline </em> </li>
   <li> October 27:  Arijeet continues on the K^c constructions </li>
   <li> November 3:  Arijeet finishes with the K^c constructions </li>
+   <li> November 10:  Tomasz presents the extender algebra from section 7 </li>
+   <li> November 17:  Umut presents applications of the extender algebra from section 7 </li>
 
   
 
