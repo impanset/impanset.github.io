@@ -26,7 +26,8 @@ permalink: /stusem/
   <li> October 27:  Arijeet continues on the K^c constructions </li>
   <li> November 3:  Arijeet finishes with the K^c constructions </li>
    <li> November 10:  Tomasz presents the extender algebra from section 7 </li>
-   <li> November 17:  Umut presents applications of the extender algebra from section 7 </li>
+   <li> November 17:  No seminar </li>
+   <li> November 24:  Umut presents applications of the extender algebra from section 7 </li>
 
   
 
