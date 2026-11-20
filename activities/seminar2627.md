@@ -98,14 +98,22 @@ Titles and abstracts below
 <br>
 
 
-**Grigorii Stepanov (TU Wien, Austria)** 04-11-2026 **Room 6**
+**M. Catalina Torres (University of Barcelona / TU Wien)** 18-11-2026
+
+<ul>
+<li> <strong> Title </strong>: Topology and the structure of infinity </li>
+<li> <strong> Abstract </strong>: Starting from the notion of a limit point, this talk explores connections between topology, higher stationarity, and large cardinals. Higher stationarity extends the classical notion of a stationary set through increasingly strong forms of reflection: the idea that properties of a large structure can already appear in smaller parts. I will explain how these reflection principles can be described through topological accumulation, how this connection extends from ordinals to spaces of small subsets of a larger set, and how large cardinals support these higher forms of stationarity. </li>
+</ul>
+
+
+**Grigorii Stepanov (TU Wien, Austria)** 04-11-2026 
 
 <ul>
 <li> <strong> Title </strong>: Measures and Higher Stationarity under the Axiom of Determinacy </li>
 <li> <strong> Abstract </strong>: In this talk I shall cover some basic combinatorial consequences of AD. Starting off with Solovay/Martin theorem that \( \omega_1 \) is measurable under AD, we will look how this extends to larger regular cardinals. I will show how this defines the structure of the Higher Stationary Reflection. Comparing this purely combinatorial results with their inner-model theoretic analogues I pose some open questions. </li>
 </ul>
 
-**Umutcan Kaya (University of Warsaw)** 28-10-2026 **Room 6**
+**Umutcan Kaya (University of Warsaw)** 28-10-2026 
 <ul>
 <li><strong>Title</strong>: Descriptive Inner Model Theory : from a perspective of a graduate student </li>
 <li><strong> Abstract</strong>:
