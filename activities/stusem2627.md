@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Seminar (Academic year 26-27)
-permalink: /stusem/
+permalink: /stusem2627/
 ---
 
 
