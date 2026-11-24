@@ -98,6 +98,16 @@ Titles and abstracts below
 <br>
 
 
+
+**Ronnie Chen (University of Warsaw)** 25-11-2026
+
+<ul>
+<li> <strong> Title </strong>: Treeable equivalence relations and large-scale geometry </li>
+<li> <strong> Abstract </strong>: In Borel combinatorics, the class of treeable equivalence relations --- meaning Borel equivalence relations admitting a Borel spanning forest --- occupies a central position in the complexity hierarchy of Borel reducibility. In this talk, I will give an introduction to the Borel reducibility hierarchy, the notion of treeability, and their deep connections to groups and dynamical systems. I will then discuss a recent line of work establishing the robustness of treeability under some natural large-scale geometric pertubations: roughly speaking, every "approximately treeable" equivalence relation (in several senses) is treeable. Based on joint works with Antoine Poulin, Ran Tao, Anush Tserunyan, and Robin Tucker-Drob. </li>
+</ul>
+
+
+
 **M. Catalina Torres (University of Barcelona / TU Wien)** 18-11-2026
 
 <ul>

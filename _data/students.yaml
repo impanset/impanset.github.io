@@ -2,7 +2,22 @@
   photo: /assets/images/employees/umut2.jpg
   pos: PhD student under G. Sargsyan
   website: https://umutcan-kaya.github.io/
-  
+
+- name: Arijeet Mishra (University of Gdansk)
+  photo: /assets/images/employees/exists.jpeg
+  pos: PhD student  under G. Sargsyan
+  website:  none
+
+- name: Jan Kostrzon (University of Warsaw)
+  photo: /assets/images/employees/exists.jpeg
+  pos: PhD student  under G. Sargsyan
+  website: none
+
+- name: Dominik Bargieła (University of Warsaw)
+  photo: /assets/images/employees/dominik.jpg
+  pos: PhD student  under G. Sargsyan
+  website: none
+
 
 - name: Olaf Kołodziejski (University of Warsaw)
   photo: /assets/images/employees/Olaf2.jpg
@@ -10,21 +25,6 @@
   website:  none
   
 
-- name: Jan Kostrzon (University of Warsaw)
-  photo: /assets/images/employees/exists.jpeg
-  pos: PhD student  under G. Sargsyan
-  website: none
-
-- name: Corentin Lagadec (University of Warsaw)
-  photo: /assets/images/employees/exists.jpeg
-  pos:   Visiting student
-  website: none
-  
-- name: Arijeet Mishra (University of Gdansk)
-  photo: /assets/images/employees/exists.jpeg
-  pos: PhD student  under G. Sargsyan
-  website:  none
-  
 - name: Noah Slavitch (University of Warsaw)
   photo: /assets/images/employees/exists.jpeg
   pos:  PhD student  under G. Sargsyan

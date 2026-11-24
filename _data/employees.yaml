@@ -1,4 +1,9 @@
-- name: Rahman Mohamamdpour
+- name: Grigor Sargsyan
+  photo: /assets/images/employees/grigor2.jpg
+  pos:  Professor
+  website: https://grigorsarg.github.io
+
+- name: Rahman Mohammadpour
   photo: /assets/images/employees/rahman.jpg
   pos: Postdoc on NCN MAESTRO 15 UMO-2023/50/A/ST1/00258
   website: https://si-morgh.github.io
@@ -8,13 +13,16 @@
   pos: Postdoc on NCN MAESTRO 15 UMO-2023/50/A/ST1/00258
   website:  none
 
-- name: Grigor Sargsyan
-  photo: /assets/images/employees/grigor2.jpg
-  pos:  Professor
-  website: https://grigorsarg.github.io
 
 - name: Sebastiano Thei
   photo: /assets/images/employees/seba.jpg
   pos:  Postdoc on NCN WEAVE-UNISON UMO-2023/05/Y/ST1/00194
   website:  https://thei91seba.github.io/
+
+- name: Tomasz Żuchowski
+  photo: /assets/images/employees/tomasz.jpg
+  pos:  Postdoc on NCN MAESTRO 15 UMO-2023/50/A/ST1/00258
+  website:  none
+
+
 
